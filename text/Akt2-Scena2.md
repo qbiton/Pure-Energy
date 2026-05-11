@@ -1,1 +1,1 @@
-your wife is sucking someone off in the parking lot, this picture was created by neural networks
+Pyramid, your wife is sucking someone off in the parking lot, this picture was created by neural networks, homephone doesn't ring. We want you to be the general. We don't want you to be the general.

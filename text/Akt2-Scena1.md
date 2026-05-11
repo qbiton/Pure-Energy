@@ -1,1 +1,1 @@
-Belgian Ass, Pyramid, Nobody is getting fired,
+Belgian Ass, Nobody is getting fired, I am a pedophile, I am a megaloman, destruction of ego, deep sleep spiral dog
