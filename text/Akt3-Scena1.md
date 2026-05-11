@@ -1,0 +1,2 @@
+na bieżni skierowanej ku lewu idzie Mąż
+Z lewej do prawej przechodnie mijają Męża rzucając raz po raz hasłami. Część z nich dostaje notyfikację na smartfona i czyta za jego plecami wiadomość z sieci. Niektórzy nie mają telefonu i mówią od siebie 
