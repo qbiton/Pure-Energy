@@ -1,1 +1,1 @@
-We need someone to tell us what to do. We are killing you Jakub.
+We need someone to tell us what to do. We need Jesus. Jakub is completely out of touch with reality. We are killing you Jakub.
