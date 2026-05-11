@@ -7,5 +7,5 @@ Wielmoża - pan w garniturze
 Transpłuciowiec - pan w stroju kaczki trzymający halabardę
 Magini - pani w białym
 Mag - pan w białym
-Hegemon - grubas w garniturze w czapce-hamburgerze na głowie
+US king - grubas w garniturze w czapce-hamburgerze na głowie
 Belgian PM - pan w czarnym stroju sado maso z czerwoną kulką na czarnym pasku przywieszoną na szyi i żółtą peruką
