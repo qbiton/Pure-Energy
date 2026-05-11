@@ -1,0 +1,1 @@
+ten pacjent kieruje własną terapią w trakcie hipnozy
