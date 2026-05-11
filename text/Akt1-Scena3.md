@@ -1,1 +1,1 @@
-Lorem ipsum dolor sit amet, ukochani, którzy się nie pierdolą w zbędne konwenanse, tylko lecą w kulki tak, żeby zawsze było gites. Zamiast marnować czas na zdrady czy partyjne gierki o miliardy, stawiają na czysty luz i konkretne działanie. Prawdziwa ekipa wie, jak zakręcić rzeczywistością, by wycisnąć z niej to, co najlepsze, bez udawania kogoś innego. Pełna swoboda, wspólne loty i zero spin – bo w tym całym chaosie liczy się tylko to, żeby ostatecznie wszystko grało idealnie.
+threats

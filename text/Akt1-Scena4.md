@@ -1,1 +1,1 @@
-Lorem ipsum dolor sit amet, siano się przyda, bośmy koni nakradli całe stado i teraz trzeba je wykarmić, żeby nie padły przed świtem. Sytuacja jest podbramkowa, zapasy marne, a Twoja stara, przy całym szacunku, może być za mało na taką bandę wygłodniałych wierzchowców. Potrzebujemy konkretnych beli, złotego kłosa i pełnych żłobów, żeby było gites. Lecimy w kulki z prawem, ale nie z owsem. Koniom musi pękać brzuch, bo droga przed nami daleka, a pościg depcze nam po piętach. Nie ma pierdolenia, tylko czysty dolor i pasza.
+analog disc red herring, saturn
