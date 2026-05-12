@@ -60,7 +60,13 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 [przechodzień]: własnie zostałeś określony królem życia
 
-[Mąż schodzi z bieżni. Na scenie nie ma nikogo oprócz niego. Mąż wypija butelkę wody i wchodzi spowrotem na bieżnię, zaczyna truchtać, łapie się za serce i spada nieprzytomny z bieżni.]
+[reporterka]: możesz myśleć o sobie, że masz medal. Zrób coś, rząd nam się rozpierdala!
+
+[Mąż schodzi z bieżni. Na scenie nie ma nikogo oprócz niego. Mąż wypija butelkę wody]
+
+[Mąż]: Dziękuję za uhonorowanie mnie medalem za wkład, który ja i moi bliscy włożyliśmy w niezbędne zmiany w Naszym kraju. Czuję się zaszczycony i lekko oszołomiony odbiorem mojej osoby. Dążenie do zachowania honorowego nie przychodzi bez poświęceń. Słuchając Waszych komentarzy na ulicach czuję Wasze poparcie w sprawie progresu jaki wprowadzamy w Nasze tradycje. Ilekroć widzę uśmiechającą się do mnie twarz, moje serce rośnie. Gdy dostrzegam współpracujących nad dobrem wspólnym ludzi, mój mózg się raduje. Kiedy czuję Wasze zaangażowanie w Nasz kraj mój duch mocnieje. Przysięgę wierności Polsce złożyłem w ukryciu w przestrzeni wspólnej. Przysięgę wierności NATO złożyłem nieświadomie, lecz teraz tę przysięgę podtrzymuję. To świadomość społeczna właśnie sprawia, iż nasze podświadomości uwspólniają się w nadświadomość.
+
+[Mąż wchodzi spowrotem na bieżnię, zaczyna truchtać, łapie się za serce i spada nieprzytomny z bieżni.]
 
 [Dookoła niego pojawiają się przechodnie i stają w kółku]
 
@@ -78,7 +84,11 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 [7]: ładny mi król, najebał się i śpi na ulicy.
 
-[8]: Ech! A mogłes być kimś.
+[8]: podobno ma medal.
+
+[9]: od kogo? ładny mi medalista.
+
+[0]: Ech! A mogłeś być kimś.
 
 [Przechodnie rozchodzą się, nikt nawet przy Mężu nie przykucnął.]
 
