@@ -10,6 +10,8 @@ Scena jest podzielona na trzy segmenty.
 - telebim z tyłu sceny przedstawiający to co się dzieje na ekranie laptopa z segmentu lewego
 - głośniki
 
+*kolory poszczególnych sekcji mogą być oznaczone umeblowaniem konkretnego koloru*
+
 ## SEGMENT LEWY - biuro i salon
 - wejście z lewej strony sceny
 - zielone biurko pod niebieską ścianą
@@ -30,9 +32,6 @@ Scena jest podzielona na trzy segmenty.
 ## SEGMENT PRAWY - ludzie za taflą ekranu
 - wejście z prawej strony sceny
 - mikrofon
-
-*kolory poszczególnych sekcji mogą być być oznaczone umeblowaniem konkretnego koloru*
-
 
 # AKCJA
 *muzyka: https://youtu.be/zsOH4jRm-zw?si=Y9B-41l50J5985zK . z głośników dobiegają hasła na temat pandemii COVID-19 np. to że nie można wychodzić, a za niezgodność z przepisami płaci się 30000 kary, drukarka 3D wprowadzona jest w ruch i brzęczy udając że drukuje. telewizor co chwilę się rozświetla po czym gaśnie. Wszystkie segmenty sceny sa oświetlone*
