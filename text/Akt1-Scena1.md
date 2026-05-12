@@ -31,6 +31,8 @@ Scena jest podzielona na trzy segmenty.
 - wejście z prawej strony sceny
 - mikrofon
 
+*kolory poszczególnych sekcji mogą być być oznaczone umeblowaniem konkretnego koloru*
+
 
 # AKCJA
 *muzyka: https://youtu.be/zsOH4jRm-zw?si=Y9B-41l50J5985zK . z głośników dobiegają hasła na temat pandemii COVID-19 np. to że nie można wychodzić, a za niezgodność z przepisami płaci się 30000 kary, drukarka 3D wprowadzona jest w ruch i brzęczy udając że drukuje. telewizor co chwilę się rozświetla po czym gaśnie. Wszystkie segmenty sceny sa oświetlone*
