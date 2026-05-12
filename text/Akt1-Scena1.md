@@ -31,6 +31,7 @@ Scena jest podzielona na trzy segmenty.
 
 ## SEGMENT PRAWY - ludzie za taflą ekranu
 - wejście z prawej strony sceny
+- kamera telewizyjna skierowana na mieszkanie po lewej
 - mikrofon
 
 # AKCJA
