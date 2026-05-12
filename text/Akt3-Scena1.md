@@ -1,95 +1,107 @@
-/Kurtyna/
+```KURTYNA```
 
-[SCENA]
+# SCENA
 Na środku pustej sceny ustawiona jest skierowana ku lewu bieżnia do chodzenia. Za bieżnią stoi duża, otwarta butelka z wodą. Oprócz tych dwóch przedmiotów na scenie widać otwarte okno. Z tyłu sceny ustawione są dwa głośniki symbolizujące dźwięk w słuchawkach. Oprócz głosów w słuchawkach leci spokojna, melancholijna muzyka (https://youtu.be/V0KBtHwaJcw?si=dlgLPgAWhKa99X44)
 
-[AKCJA]
+# AKCJA
 Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TIME". Na głowie ma założone słuchawki do słuchania muzyki. Z lewej do prawej przechodnie w różnych strojach mijają Męża rzucając raz po raz hasłami. Część z nich dostaje notyfikację na smartfona i czyta za jego plecami wiadomość z sieci. Niektórzy nie mają telefonu i mówią od siebie.
 
-[dwie pielęgniarki]: przecież to jest wampir!
+**dwie pielęgniarki**: przecież to jest wampir!
 
-[kelnerka wrzuca pigułkę do butelki z wodą]: Hurra! Będę nałożnicą króla!
+**kelnerka wrzuca pigułkę do butelki z wodą**: Hurra! Będę nałożnicą króla!
 
-[męski głos w głośnikach]: właśnie jakaś kobieta weszła do fontanny.
+**fanki**: dziękujemy ci, że ty tutaj w ogóle jesteś
 
-[dwóch przechodniów]: wiesz co to znaczy, jeśli wyszkolony żołnierz ustawia się plecami do drzwi..? 
+**męski głos w głośnikach**: właśnie jakaś kobieta weszła do fontanny.
 
-[żołnierz]: urosłeś do rangi generała. Zrób coś z tym!
+**dwóch przechodniów**: wiesz co to znaczy, jeśli wyszkolony żołnierz ustawia się plecami do drzwi..? 
 
-[przechodzień]: przecież jesteś królem! Mów co mamy robić!
+**żołnierz**: urosłeś do rangi generała. Zrób coś z tym!
 
-[żołnierz]: za coś takiego co ty zrobiłeś kiedyś dostawało się kulę w łeb.
+**przechodzień**: przecież jesteś królem! Mów co mamy robić!
 
-[staruszka]: jesteś nikim.
+**żołnierz**: za coś takiego co ty zrobiłeś kiedyś dostawało się kulę w łeb.
 
-[kobieta]: jesteś diabłem.
+**staruszka**: jesteś nikim.
 
-[klechta zza okna]: większego anioła jeszcze nie widzieliśmy.
+**mężczyzna**: że ty jeszcze z nią jesteś?
 
-[indyjczyk]: u nas jesteś bogiem.
+**kobieta**: jesteś diabłem.
 
-[kilku anglików]: There goes the fag king!
+**fanki**: dziękujemy ci, że ty tutaj w ogóle jesteś
 
-[Mąż się śmieje]
+**klechta zza okna**: większego anioła jeszcze nie widzieliśmy.
 
-[kobieta]: przecież to jest szpieg!
+**indyjczyk**: u nas jesteś bogiem.
 
-[męski głos w głośnikach]: możesz o sobie myśleć, że jesteś królem szpiegów.
+**kilku anglików**: There goes the fag king!
 
-[przechodzień]: to iluminaci sa prawdziwi?
+**Mąż się śmieje**
 
-[rozbawiona kobieta]: dzisiaj wyglądasz jak MacGyver
+**kobieta**: przecież to jest szpieg!
 
-[banda bab z sądu rodzinnego]: jesteśmy z sądu rodzinnego, już nie wiemy co mamy robić. Powiedz czego chcesz?
+**męski głos w głośnikach**: możesz o sobie myśleć, że jesteś królem szpiegów.
 
-[Mąż rzuca im pogardliwe spojrzenie i idzie dalej]
+**przechodzień**: to iluminaci sa prawdziwi?
 
-[człowiek w stroju konduktora wrzuca pigułkę do wody]: właśnie dostałem wiadomość IMEI, że wieziemy groźnego pedofila.
+**fanki**: chciałybyśmy ci zrobić loda
 
-[kobieta w eleganckim stroju wrzuca pigułkę do wody]: dodaliśmy do wodopoju MDMA, tylko pij małymi łyczkami bo jest z opóźniaczem.
+**rozbawiona kobieta**: dzisiaj wyglądasz jak MacGyver
 
-[żołnierz o wyższej randze psika sprayem do pach]: jaki jest twój rozkaz. Idziemy na wojnę?
+**banda bab z sądu rodzinnego**: jesteśmy z sądu rodzinnego, już nie wiemy co mamy robić. Powiedz czego chcesz?
 
-[Mąż obraca szybko głowę jakby miał tik nerwowy]: Nie.
+**Mąż rzuca im pogardliwe spojrzenie i idzie dalej**
 
-[żołnierz]: ja to bym chętnie poleciał ich rozpierdolić.
+**człowiek w stroju konduktora wrzuca pigułkę do wody**: właśnie dostałem wiadomość IMEI, że wieziemy groźnego pedofila.
 
-[żołnierz o wyższej randze]: jesteś idiotą.
+**kobieta**: zachęcam cię do zmiany żony
 
-[Mąż przyspiesza]
+**kobieta w eleganckim stroju wrzuca pigułkę do wody**: dodaliśmy do wodopoju MDMA, tylko pij małymi łyczkami bo jest z opóźniaczem.
 
-[przechodzień]: własnie zostałeś określony królem życia
+**żołnierz o wyższej randze psika sprayem do pach**: jaki jest twój rozkaz. Idziemy na wojnę?
 
-[reporterka]: możesz myśleć o sobie, że masz medal. Zrób coś, rząd nam się rozpierdala!
+**Mąż obraca szybko głowę jakby miał tik nerwowy**: Nie.
 
-[Mąż schodzi z bieżni. Na scenie nie ma nikogo oprócz niego. Mąż wypija butelkę wody]
+**żołnierz**: ja to bym chętnie poleciał ich rozpierdolić.
 
-[Mąż]: Dziękuję za uhonorowanie mnie medalem za wkład, który ja i moi bliscy włożyliśmy w niezbędne zmiany w Naszym kraju. Czuję się zaszczycony i lekko oszołomiony odbiorem mojej osoby. Dążenie do zachowania honorowego nie przychodzi bez poświęceń. Słuchając Waszych komentarzy na ulicach czuję Wasze poparcie w sprawie progresu jaki wprowadzamy w Nasze tradycje. Ilekroć widzę uśmiechającą się do mnie twarz, moje serce rośnie. Gdy dostrzegam współpracujących nad dobrem wspólnym ludzi, mój mózg się raduje. Kiedy czuję Wasze zaangażowanie w Nasz kraj mój duch mocnieje. Przysięgę wierności Polsce złożyłem w ukryciu w przestrzeni wspólnej. Przysięgę wierności NATO złożyłem nieświadomie, lecz teraz tę przysięgę podtrzymuję. To świadomość społeczna właśnie sprawia, iż nasze podświadomości uwspólniają się w nadświadomość.
+**żołnierz o wyższej randze**: jesteś idiotą.
 
-[Mąż wchodzi spowrotem na bieżnię, zaczyna truchtać, łapie się za serce i spada nieprzytomny z bieżni.]
+**Mąż przyspiesza**
 
-[Dookoła niego pojawiają się przechodnie i stają w kółku]
+**przechodzień**: własnie zostałeś określony królem życia
 
-[1]: Co mu jest?
+**fanki**: dziękujemy ci, że ty tutaj w ogóle jesteś. Chciałybyśmy ci zrobić loda.
 
-[2]: Chyba śpi.
+**reporterka**: możesz myśleć o sobie, że masz medal. Zrób coś, rząd nam się rozpierdala!
 
-[3]: Pewnie się najebał.
+**Mąż schodzi z bieżni. Na scenie nie ma nikogo oprócz niego. Mąż wypija butelkę wody**
 
-[4]: Spieszę się do pracy.
+**Mąż**: Dziękuję za uhonorowanie mnie medalem za wkład, który ja i moi bliscy włożyliśmy w niezbędne zmiany w Naszym kraju. Czuję się zaszczycony i lekko oszołomiony odbiorem mojej osoby. Dążenie do zachowania honorowego nie przychodzi bez poświęceń. Słuchając Waszych komentarzy na ulicach czuję Wasze poparcie w sprawie progresu jaki wprowadzamy w Nasze tradycje. Ilekroć widzę uśmiechającą się do mnie twarz, moje serce rośnie. Gdy dostrzegam współpracujących nad dobrem wspólnym ludzi, mój mózg się raduje. Kiedy czuję Wasze zaangażowanie w Nasz kraj mój duch mocnieje. Przysięgę wierności Polsce złożyłem w ukryciu w przestrzeni wspólnej. Przysięgę wierności NATO złożyłem nieświadomie, lecz teraz tę przysięgę podtrzymuję. To świadomość społeczna właśnie sprawia, iż nasze podświadomości uwspólniają się w nadświadomość.
 
-[5]: Muszę ugotować obiad.
+**Mąż wchodzi spowrotem na bieżnię, zaczyna truchtać, łapie się za serce i spada nieprzytomny z bieżni.**
 
-[6]: Przecież to jest król!
+**Dookoła niego pojawiają się przechodnie i stają w kółku**
 
-[7]: ładny mi król, najebał się i śpi na ulicy.
+**1**: Co mu jest?
 
-[8]: podobno ma medal.
+**2**: Chyba śpi.
 
-[9]: od kogo? ładny mi medalista.
+**3**: Pewnie się najebał.
 
-[0]: Ech! A mogłeś być kimś.
+**4**: Spieszę się do pracy.
 
-[Przechodnie rozchodzą się, nikt nawet przy Mężu nie przykucnął.]
+**5**: Muszę ugotować obiad.
 
-/Kurtyna/
+**6**: Przecież to jest król!
+
+**7**: ładny mi król, najebał się i śpi na ulicy.
+
+**8**: podobno ma medal.
+
+**9**: od kogo? ładny mi medalista.
+
+**0**: Ech! A mogłeś być kimś.
+
+**Przechodnie rozchodzą się, nikt nawet przy Mężu nie przykucnął.**
+
+```KURTYNA```
