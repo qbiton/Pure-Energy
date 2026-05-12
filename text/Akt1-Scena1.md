@@ -3,7 +3,7 @@
 # SCENA
 Scena jest podzielona na trzy segmenty.
 - Segment z lewej ma kolor drewna, ściana po lewej ma kolor niebieski
-- Segment środkowy ma kolor drewna, oddzielony jest ot segmentu lewego białą linią, która w najdalszej części jest przerwana, co symbolizuje drzwi pomiędzy lewym a prawym segmentem
+- Segment środkowy ma kolor drewna, oddzielony jest od segmentu lewego białą linią, która w najdalszej części jest przerwana, co symbolizuje drzwi pomiędzy lewym a prawym segmentem
 - Segment po prawej ma kolor niebieski, a oddzielony jest od segmentu środkowego grubą zieloną linią
 - telebim z tyłu sceny przedstawiający to co się dzieje na ekranie laptopa z segmentu lewego
 - głośniki
@@ -31,9 +31,9 @@ Scena jest podzielona na trzy segmenty.
 
 
 # AKCJA
-*muzyka: https://youtu.be/zsOH4jRm-zw?si=Y9B-41l50J5985zK . z głośników dobiegają hasła na temat pandemii COVID-19 np. to że nie można wychodzić, a za niezgodność z przepisami płaci się 30000 kary, drukarka 3D wprowadzona jest w ruch i brzęczy. telewizor co chwilę się rozświetla po czym gaśnie. Wszystkie segmenty sceny sa oświetlone*
+*muzyka: https://youtu.be/zsOH4jRm-zw?si=Y9B-41l50J5985zK . z głośników dobiegają hasła na temat pandemii COVID-19 np. to że nie można wychodzić, a za niezgodność z przepisami płaci się 30000 kary, drukarka 3D wprowadzona jest w ruch i brzęczy udając że drukuje. telewizor co chwilę się rozświetla po czym gaśnie. Wszystkie segmenty sceny sa oświetlone*
 
-**Mąż siedzi** przy laptopie i pracuje
+**Mąż siedzi przy laptopie i pracuje**
 
 **Żona krząta się po pokoju**: co drukujesz?
 
@@ -55,7 +55,15 @@ Scena jest podzielona na trzy segmenty.
 
 **Mąż obłapia Żonę**: chcę cie wyobracać na wszystkie strony
 
-**Kobieta w niebieskim**: Jakub guzik mute w naszym programie do komunikacji znowu nie działa
+**Kobieta w niebieskim pomieszczeniu**: Jakub guzik mute w naszym komunikatorze znowu nie działa
+
+**Żona schodzi ze sceny**
+
+**Mąż podchodzi do drukarki 3D**: a niech to szlag! Znowu się druk skasztanił. **wyłącza drukarkę, coś przy niej kombinuje, po czym włącza drukarkę ponownie** Może teraz się uda.
+
+**Kobieta w niebieskim pomieszczeniu**: Kuba mamy problem plepleple blablabla tickety blablabla plepleple klient bla bla bla ple ple ple techniczny żargon blablabla plepleple.
+
+**Mąż kreśląc białym pyłem linkę kartą bankomatową na blacie biurka**: spoko ogarniemy, zaraz się tym zajmę.
 
 3D printing, snorting, alcohol, gaming, sleeping, confcalls
 
