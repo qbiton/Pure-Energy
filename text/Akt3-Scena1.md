@@ -4,7 +4,7 @@
 Na środku pustej sceny ustawiona jest skierowana ku lewu bieżnia do chodzenia. Za bieżnią stoi duża, otwarta butelka z wodą. Oprócz tych dwóch przedmiotów na scenie widać otwarte okno. Z tyłu sceny ustawione są dwa głośniki symbolizujące dźwięk w słuchawkach. Oprócz głosów w słuchawkach leci spokojna, melancholijna muzyka (https://youtu.be/V0KBtHwaJcw?si=dlgLPgAWhKa99X44)
 
 [AKCJA]
-Po bieżni idzie Mąż ubrany białą koszulkę z napisem "GOOD THINGS TAKE TIME". Na głowie ma założone słuchawki do słuchania muzyki. Z lewej do prawej przechodnie w różnych strojach mijają Męża rzucając raz po raz hasłami. Część z nich dostaje notyfikację na smartfona i czyta za jego plecami wiadomość z sieci. Niektórzy nie mają telefonu i mówią od siebie.
+Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TIME". Na głowie ma założone słuchawki do słuchania muzyki. Z lewej do prawej przechodnie w różnych strojach mijają Męża rzucając raz po raz hasłami. Część z nich dostaje notyfikację na smartfona i czyta za jego plecami wiadomość z sieci. Niektórzy nie mają telefonu i mówią od siebie.
 
 [dwie pielęgniarki]: przecież to jest wampir!
 
@@ -60,7 +60,7 @@ Po bieżni idzie Mąż ubrany białą koszulkę z napisem "GOOD THINGS TAKE TIME
 
 [przechodzień]: własnie zostałeś określony królem życia
 
-[Mąż schodzi z bieżni. Na scenie nie ma nikogo oprócz niego. Mąż bierze łyka wody i wchodzi spowrotem na bieżnię, zaczyna truchtać, łapie się za serce i spada nieprzytomny z bieżni.]
+[Mąż schodzi z bieżni. Na scenie nie ma nikogo oprócz niego. Mąż wypija butelkę wody i wchodzi spowrotem na bieżnię, zaczyna truchtać, łapie się za serce i spada nieprzytomny z bieżni.]
 
 [Dookoła niego pojawiają się przechodnie i stają w kółku]
 
