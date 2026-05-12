@@ -53,7 +53,7 @@ Scena jest podzielona na trzy segmenty.
 
 **Żona podchodzi do Męża dać mu buziaka**: idę po dziecko do przedszkola, chcesz coś ze sklepu?
 
-**Mąż obłapia Żonę**: chcę cie wyobracać na wszystkie strony
+**Mąż obłapia Żonę**: chcę cię wyobracać na wszystkie strony
 
 **Kobieta w niebieskim pomieszczeniu**: Jakub guzik mute w naszym komunikatorze znowu nie działa
 
@@ -63,7 +63,7 @@ Scena jest podzielona na trzy segmenty.
 
 **Kobieta w niebieskim pomieszczeniu**: Kuba mamy problem plepleple blablabla tickety blablabla plepleple klient bla bla bla ple ple ple techniczny żargon blablabla plepleple.
 
-**Mąż kreśląc białym pyłem linkę kartą bankomatową na blacie biurka**: spoko ogarniemy, zaraz się tym zajmę.
+**Mąż kreśląc białym pyłem linkę kartą bankomatową na blacie biurka**: spoko ogarniemy, zaraz się tym zajmę. **Zdmuchuje linkę z biurka po czym zaczyna klikać. Na telebimie zaczyna wyświetlać się coś w stylu https://codefaker.com/**
 
 3D printing, snorting, alcohol, gaming, sleeping, confcalls
 
