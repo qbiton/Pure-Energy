@@ -1,4 +1,4 @@
-Pure Energy is a comedy drama for theatres from the original author of "Saint Fucker" and "Painting of Mother Nature".
+Pure Energy is a comedy drama for theatres from the original author of "Saint Fucker" and "Painting Mother Nature".
 
 The play is written in Polish as I (Jakub Jan Zieliński - Author) am Polish myself. Feel free to fork and translate or do whatever you like with the text and pictures of paintings I am posting to depict what is happening in the play. The more the merrier.
 
