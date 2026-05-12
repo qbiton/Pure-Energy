@@ -51,13 +51,17 @@ Scena jest podzielona na trzy segmenty.
 
 **Mąż**: nie, to praktycznie robi się samo.
 
-**Żona podchodzi do Męża dać mu buziaka**: idę po dziecko do przedszkola, chcesz coś ze sklepu?
+**Żona**: a koszt plastiku?
+
+**Mąż**: mamy na portalu społecznościowym grupę drukarzy 3D i stamtąd miałem kontakt do firmy, z której mam resztki szpul - oni też to drukują.
+
+**Żona podchodzi do Męża dać mu buziaka**: aha, idę po dziecko do przedszkola, chcesz coś ze sklepu?
 
 **Mąż obłapia Żonę**: chcę cię wyobracać na wszystkie strony
 
 **Kobieta w niebieskim pomieszczeniu**: Jakub guzik mute w naszym komunikatorze znowu nie działa
 
-**Żona schodzi ze sceny**
+**Żona schodzi ze sceny, w sypialni gaśnie światło**
 
 **Mąż podchodzi do drukarki 3D**: a niech to szlag! Znowu się druk skasztanił. **wyłącza drukarkę, coś przy niej kombinuje, po czym włącza drukarkę ponownie** Może teraz się uda.
 
