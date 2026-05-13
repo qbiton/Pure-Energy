@@ -1,4 +1,4 @@
-Na scenę wchodzi mdoel w stroju krewetki i trzyma kartkę z napisem AKT 3 SCENA 6.
+Na scenę wchodzi model w stroju krewetki i trzyma kartkę z napisem AKT 3 SCENA 6.
 
 ```\gong i kurtyna\```
 
