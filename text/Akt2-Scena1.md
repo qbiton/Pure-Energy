@@ -91,7 +91,7 @@ Scena jest podzielona na trzy segmenty.
 
 **Informatyk4 ubrany najbardziej elegancko**: właściwie to jest twoja kolej na spowiedź. Jak tam storyjki? Te dwie przejebane przez poprzedni sprint chylą się ku ukończeniu? Mógłbyś dodać jakiś komentarz?
 
-**Mąż**: prawde rzekłszy mam drobny problem bo w Ansiblu nie da się wprost zrobić pętli w pętli. Zagnieżdżenie pętel się wypierdala przy kolejnych iteracjach. Niby jest jakiś na to workaround, ale bez użycia pytonga to słabo wygląda. Myślę, że skończę zanim Belg się wkurwi.
+**Mąż**: prawdę rzekłszy mam drobny problem bo w Ansiblu nie da się wprost zrobić pętli w pętli. Zagnieżdżenie pętel się wypierdala przy kolejnych iteracjach. Niby jest jakiś na to workaround, ale bez użycia pytonga to słabo wygląda. Myślę, że skończę zanim Belg się wkurwi.
 
 **Informatyk4**: dobra. Napisz to w Dżirze. Puść jakiś commit.
 
