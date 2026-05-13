@@ -25,6 +25,8 @@ itp. dużo obelg, trochę słodzenia i inne komentarze
 
 *kwestie mogą być również napisane lub wydrukowane na biletach*
 
+```LUDZIE Z PULICZNOŚCI KTÓRZY ODWAŻĄ SIĘ OBRAZIĆ MĘŻA NAJGORSZYMI OBELGAMI DOSTAJĄ PO SZTUCE OD OBSŁUGI CIASTECZKO```
+
 # AKCJA
 Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TIME". Na głowie ma założone słuchawki do słuchania muzyki. Z lewej do prawej przechodnie w różnych strojach mijają Męża rzucając raz po raz hasłami. Część z nich dostaje notyfikację na smartfona i czyta za jego plecami wiadomość z sieci. Niektórzy nie mają telefonu i mówią od siebie.
 
