@@ -12,7 +12,7 @@ Scena z grubsza pozostaje bez zmian. Z salonu znikają kafle i worki z cementem.
 
 **mąż siedzi na klęczniku przed biurkiem i rozwiązuje test IQ klikając w klawiaturę laptopa**
 
-```tutaj pojawia się test IQ - każda odpowiedź trwa mniej więcej 20 sekund. Mąż robi wszystko dobrze popijając drinka. Na ekranie pojawia się wynik 145```
+```tutaj pojawia się test IQ - każda odpowiedź trwa mniej więcej 20 sekund. Mąż robi wszystko dobrze popijając drinka. Na ekranie pojawia się wynik 145. Jakub Zieliński podpisuje się pod wynikiem imieniem i nazwiskiem```
 
 **Mąż**: lol jaki bulszit, dostałem 145, więcej testy standardowe nie przyznają, to jakiś SCAM - pewnie chcą żebym zapłacił za analizę.
 
