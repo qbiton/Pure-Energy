@@ -10,6 +10,16 @@ na siedzeniach w tetrze ułożone przed przyjściem widzów leżą wąskie paski
 * czas żebyś sięgnął po swoje
 * znowu ćpie?
 * ja mam
+* niech zdycha, sprzedał nasz kraj
+* to jest pedał, ja takich nie tykam
+* szczyl
+* siuśmiajtek
+* z kim ty przystajesz?
+* Ty my myśleliśmy, że jesteś z PiSu
+* Dziękuję, że nas wypuściłeś
+* ten Polish Hitler nas rozpierdala
+
+itp. dużo obelg, trochę słodzenia i inne komentarze
 
 *kwestie mogą być również napisane lub wydrukowane na biletach*
 
