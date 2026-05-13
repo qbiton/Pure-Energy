@@ -30,7 +30,7 @@ https://soundcloud.com/green1-634541573/joseph-heller-bog-wie-rozdzial-1
 
 **Wojskowy**: dlaczego?
 
-**Mąż**: Jesteśmy cały czas zamknięci w domach. Ludzie boją się wychodzić i nie mogą pracowac. Tu jest dużo przestrzeni, słychać śpiew ptaków. Nagrywam audioboook, żeby trochę nas podnieść na duchu.
+**Mąż**: Jesteśmy cały czas zamknięci w domach. Ludzie boją się wychodzić i nie mogą pracować. Tu jest dużo przestrzeni, słychać śpiew ptaków. Nagrywam audioboook, żeby trochę nas podnieść na duchu.
 
 **Wojskowy**: dokumenty poproszę.
 
