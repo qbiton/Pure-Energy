@@ -107,7 +107,7 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 **tutaj następują wrzutki statystów/aktorow jednowierszowych, którzy są wśród publiczności - nadzieja jest na to, że część publiczności się uaktywni. Jeśli zapadnie cisza mąż łapie się za serce i spada nieprzytomny z bieżni.**
 
 **Dookoła niego pojawiają się przechodnie i stają w kółku**
-*jeśli w teatrze wystarczy miejsc statyści/postaci epizodyczne wymawiające konkretne kwestie mogą siedzieć pomiędzy publiką*
+*jeśli w teatrze wystarczy miejsc statyści/postaci epizodyczne wymawiające pojedyncze kwestie mogą siedzieć pomiędzy publiką*
 
 **1**: Co mu jest?
 
