@@ -25,7 +25,7 @@ itp. dużo obelg, trochę słodzenia i inne komentarze
 
 *kwestie mogą być również napisane lub wydrukowane na biletach*
 
-```LUDZIE Z PULICZNOŚCI KTÓRZY ODWAŻĄ SIĘ OBRAZIĆ MĘŻA NAJGORSZYMI OBELGAMI DOSTAJĄ PO SZTUCE OD OBSŁUGI CIASTECZKO```
+```LUDZIE Z PULICZNOŚCI, KTÓRZY ODWAŻĄ SIĘ OBRAZIĆ MĘŻA NAJGORSZYMI OBELGAMI DOSTAJĄ PO SZTUCE OD OBSŁUGI CIASTECZKO```
 
 # AKCJA
 Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TIME". Na głowie ma założone słuchawki do słuchania muzyki. Z lewej do prawej przechodnie w różnych strojach mijają Męża rzucając raz po raz hasłami. Część z nich dostaje notyfikację na smartfona i czyta za jego plecami wiadomość z sieci. Niektórzy nie mają telefonu i mówią od siebie.
@@ -131,6 +131,6 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 **Ludzie z syndromem postronnym zaczynają sie rozchodzić.**
 
-**Dzielna kobieta wybiega z tylnego rzędu siedzeń i wrzeszczy**: IDIOCI! DZWOŃCIE NA KARETKĘ! **Dobiega do Męża i sprawdza oddech, sprawdza czy nie ma czegoś w buzi i układa go w pozycji bezpiecznej** KTO MA TELEFON? **żaden z aktorów nie wypowiada żadnej kwestii** PYTAM RAZ JESZCZE KTO MA TELEFON?! **aktorzy milczą** KTO DO JASNEJ ANIELKI MA TELEFON?! **aktorzy milczą** CZY WY JESTEŚCIE JESZCZE LUDŹMI?! CZY KTOŚ MA KURWA TELEFON? **i tak w kółko aż w końcu odezwie się ktoś z publiczności, skończy się jej para w płucach, albo reżyser stwierdzi, że to nuda. Jeśli nikt się nie odezwie kolejnego aktu nie ma**
+**Dzielna kobieta wybiega z tylnego rzędu siedzeń i wrzeszczy**: IDIOCI! DZWOŃCIE PO KARETKĘ! **Dobiega do Męża i sprawdza oddech, sprawdza czy nie ma czegoś w buzi i układa go w pozycji bezpiecznej** KTO MA TELEFON? **żaden z aktorów nie wypowiada żadnej kwestii** PYTAM RAZ JESZCZE KTO MA TELEFON?! **aktorzy milczą** KTO DO JASNEJ ANIELKI MA TELEFON?! **aktorzy milczą** CZY WY JESTEŚCIE JESZCZE LUDŹMI?! CZY KTOŚ MA KURWA TELEFON? **i tak w kółko aż w końcu odezwie się ktoś z publiczności, skończy się jej para w płucach, albo reżyser stwierdzi, że to nuda. Jeśli nikt się nie odezwie kolejnego aktu nie ma**
 
 ```KURTYNA```
