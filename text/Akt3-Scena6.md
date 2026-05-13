@@ -49,6 +49,8 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 **staruszka**: jesteś nikim.
 
+**żołnierz**: król!
+
 **mężczyzna**: że ty jeszcze z nią jesteś?
 
 **kobieta**: jesteś diabłem.
@@ -64,6 +66,8 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 **Mąż się śmieje**
 
 **kobieta**: przecież to jest szpieg!
+
+**młodziak**: król!
 
 **męski głos w głośnikach**: możesz o sobie myśleć, że jesteś królem szpiegów.
 
