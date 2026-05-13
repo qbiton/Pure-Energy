@@ -72,7 +72,7 @@ Scena jest podzielona na trzy segmenty.
 
 **Kobieta w niebieskim pomieszczeniu**: Kuba mamy problem plepleple blablabla tickety blablabla plepleple klient bla bla bla ple ple ple techniczny żargon blablabla plepleple.
 
-**Mąż kreśląc białym pyłem linkę kartą bankomatową na blacie biurka**: spoko ogarniemy, zaraz się tym zajmę. **Zdmuchuje linkę z biurka po czym zaczyna klikać.**
+**Mąż kreśląc białym pyłem linkę kartą bankomatową na blacie biurka**: spoko ogarniemy, zaraz się tym zajmę. **Sięga po słomkę i zdmuchuje przez nią linkę z biurka po czym zaczyna klikać.**
 
 **Na telebimie zaczyna wyświetlać się coś w stylu https://codefaker.com/**
 
