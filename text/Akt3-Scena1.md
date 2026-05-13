@@ -81,6 +81,7 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 **Mąż wchodzi spowrotem na bieżnię, zaczyna truchtać, łapie się za serce i spada nieprzytomny z bieżni.**
 
 **Dookoła niego pojawiają się przechodnie i stają w kółku**
+*jeśli w teatrze wystarczy miejsc statyści/postaci epizodyczne wymawiające konkretne kwestie mogą siedzieć pomiędzy publiką*
 
 **1**: Co mu jest?
 
