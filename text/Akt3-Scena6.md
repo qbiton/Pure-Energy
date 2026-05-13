@@ -11,6 +11,8 @@ na siedzeniach w tetrze ułożone przed przyjściem widzów leżą wąskie paski
 * znowu ćpie?
 * ja mam
 
+*kwestie mogą być również napisane lub wydrukowane na biletach*
+
 # AKCJA
 Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TIME". Na głowie ma założone słuchawki do słuchania muzyki. Z lewej do prawej przechodnie w różnych strojach mijają Męża rzucając raz po raz hasłami. Część z nich dostaje notyfikację na smartfona i czyta za jego plecami wiadomość z sieci. Niektórzy nie mają telefonu i mówią od siebie.
 
