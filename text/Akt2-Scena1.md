@@ -19,6 +19,9 @@ Scena jest podzielona na trzy segmenty.
 - monitor ekranowy
 - komputer stacjonarny
 - klawiatura
+- komputer stacjonarny
+- monitor ekranowy
+- myszka
 - słuchawki podpięte do laptopa
 - klęcznik do biurka
 - okno na tylnej ścianie

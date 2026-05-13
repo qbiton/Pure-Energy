@@ -17,6 +17,9 @@ Scena jest podzielona na trzy segmenty.
 - zielone biurko pod niebieską ścianą
 - laptop na biurku
 - słuchawki podpięte do laptopa
+- komputer stacjonarny
+- monitor ekranowy
+- myszka
 - klęcznik do biurka
 - kanapa
 - niski stolik do kawy
