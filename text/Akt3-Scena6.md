@@ -20,7 +20,6 @@ na siedzeniach w tetrze ułożone przed przyjściem widzów leżą wąskie paski
 * Ty my myśleliśmy, że jesteś z PiSu
 * Dziękuję, że nas wypuściłeś
 * ten Polish Hitler nas rozpierdala
-* podobno ciążą na tobie zarzuty o ludobójstwo
 
 itp. dużo obelg, trochę słodzenia i inne komentarze
 
@@ -84,6 +83,10 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 **człowiek w stroju konduktora wrzuca pigułkę do wody**: właśnie dostałem wiadomość IMEI, że wieziemy groźnego pedofila.
 
 **kobieta**: zachęcam cię do zmiany żony
+
+**reporterka**: podobno ciążą na tobie zarzuty o ludobójstwo
+
+**Mąż**: aha
 
 **kobieta w eleganckim stroju wrzuca pigułkę do wody**: dodaliśmy do wodopoju MDMA, tylko pij małymi łyczkami bo jest z opóźniaczem.
 
