@@ -100,7 +100,9 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 **Mąż**: Dziękuję za uhonorowanie mnie medalem za wkład, który ja i moi bliscy włożyliśmy w niezbędne zmiany w Naszym kraju. Czuję się zaszczycony i lekko oszołomiony odbiorem mojej osoby. Dążenie do zachowania honorowego nie przychodzi bez poświęceń. Słuchając Waszych komentarzy na ulicach czuję Wasze poparcie w sprawie progresu jaki wprowadzamy w Nasze tradycje. Ilekroć widzę uśmiechającą się do mnie twarz, moje serce rośnie. Gdy dostrzegam współpracujących nad dobrem wspólnym ludzi, mój mózg się raduje. Kiedy czuję Wasze zaangażowanie w Nasz kraj mój duch mocnieje. Przysięgę wierności Polsce złożyłem w ukryciu w przestrzeni wspólnej. Przysięgę wierności NATO złożyłem nieświadomie, lecz teraz tę przysięgę podtrzymuję. To świadomość społeczna właśnie sprawia, iż nasze podświadomości uwspólniają się w nadświadomość.
 
-**Mąż wchodzi spowrotem na bieżnię, zaczyna truchtać, łapie się za serce i spada nieprzytomny z bieżni.**
+**Mąż wchodzi spowrotem na bieżnię, zaczyna truchtać**
+
+**tutaj następują wrzutki statystów/aktorow jednowierszowych, którzy są wśród publiczności - nadzieja jest na to, że część publiczności się uaktywni. Jeśli zapadnie cisza mąż łapie się za serce i spada nieprzytomny z bieżni.**
 
 **Dookoła niego pojawiają się przechodnie i stają w kółku**
 *jeśli w teatrze wystarczy miejsc statyści/postaci epizodyczne wymawiające konkretne kwestie mogą siedzieć pomiędzy publiką*
