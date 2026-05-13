@@ -17,3 +17,5 @@ Scena z grubsza pozostaje bez zmian. Z salonu znikają kafle i worki z cementem.
 **Mąż**: lol jaki bulszit, dostałem 145, więcej testy standardowe nie przyznają, to jakiś SCAM - pewnie chcą żebym zapłacił za analizę.
 
 ```\gong i kurtyna\```
+
+https://youtu.be/Y6ljFaKRTrI?si=hV6haNKaW6Qwj6pX
