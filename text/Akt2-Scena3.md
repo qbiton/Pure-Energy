@@ -31,4 +31,43 @@ Scena jest podzielona na trzy segmenty.
 
 ## SEGMENT PRAWY
 
-```kurtyna\```
+
+## AKCJA
+
+**Mąż leży w wannie i słucha wykładów Jordana petersona paląc skręta**
+
+**Z głośników leci wykład na temat różnic między kobietami a mężczyznami**
+
+**Do łazienki wchodzi żona**: musisz to palić?
+
+**Mąż**: luzuję się w wannie, czy ty możesz?
+
+**Żona**: nie lubię kiedy palisz, zachowujesz się wtedy inaczej.
+
+**Mąż**: to znaczy?
+
+**Żona**: jesteś kimś innym.
+
+**Mąż**: to tylko lekko zmienia moje postrzeganie.
+
+**Żona**: właśnie! zawsze masz jakieś dziwne odpowiedzi po tym. Poza tym to śmierdzi.
+
+**Mąż**: właśnie że pachnie.
+
+**Żona**: nie rób tego! Chcę ciebie a nie jakiegoś zjarańca!
+
+**Mąż**: widziały gały co brały
+
+**Żona wychodzi sfochowana z łazienki**
+
+**Mąż przełącza na wykład Jordana Petersona o wspólnych tematach wizji ludzi po ajahuasce**
+
+**Żona wraca do łazienki**: czego ty słuchasz?
+
+**Mąż**: próbuję dojść do tego co jest ze mną nie tak.
+
+**Żona**: i ta paplanina ci pomaga?
+
+**Mąż**: dochodzę do wniosku, że to ze światem jest coś nie tak
+
+```\kurtyna\```
