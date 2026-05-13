@@ -16,6 +16,9 @@ Scena jest podzielona na trzy segmenty.
 - wejście z lewej strony sceny
 - zielone biurko pod niebieską ścianą
 - laptop na biurku
+- monitor ekranowy
+- komputer stacjonarny
+- klawiatura
 - słuchawki podpięte do laptopa
 - klęcznik do biurka
 - okno na tylnej ścianie
@@ -103,3 +106,16 @@ Scena jest podzielona na trzy segmenty.
 
 **Informatycy1,2,3 i Mąż churalnie**: DOZO!
 
+**Ryhu wchodzi na scenę niosąc dwie kawy. Stawia jedną na biurku a drugą zaczyna głośno siorbać**: Nie masz jajek. W sumie to masz jedno. Ugotować?
+
+**Mąż**: Nie, spoko, pójdę do żaby. Chcesz coś?
+
+**Ryhu**: kup jakieś pety, energole i browary na później.
+
+**Mąż**: kebzik?
+
+**Ryhu**: nie, serio nie jestem głodny.
+
+**Mąż bierze łyka kawy i wychodzi poza scenę lewymi kulisami rzuając**: włącz Civkę.
+
+**Ryhu podchodzi do komputera stacjonarnego i klika w guzik power, telebim rozświetla się grą Sid Meier's Civilization 6. Włącza tryb dla wielu graczy i wczytuje ostatnio wpisany zapis gry w gorące pośladki. Staje na środku pomieszczenia i podpiera prawą ręką głowę, opierając tąże rękę na ręce lewej. Podnosi łatę. Idzie do łazienki. Mierzy spad na podłodze pod różnymi kątami.**
