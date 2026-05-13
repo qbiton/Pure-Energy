@@ -1,5 +1,7 @@
 Na środek sceny wychodzi muskularny mężczyzna z dwuręcznym młotem. Opiera młot o podłogę, a łokciem opiera się o drążek podpierając głowę pięścią. Z szelmowskim uśmieszkiem oznajmia AKT 2 SCENA 1. Schodzi ze sceny.
 
+```\gong i kurtyna\```
+
 # SCENA
 Scena jest podzielona na trzy segmenty.
 - Segment z lewej ma kolor drewna, ściana po lewej ma kolor niebieski
@@ -23,15 +25,81 @@ Scena jest podzielona na trzy segmenty.
 *rzeczy są ściśnięte w jednym kierunku, ale i tak ledwo da się przejść*
 - kanapa
 - niski stolik do kawy
-- przedmioty budowlane: farby, gres, kafelki, stare rozwalone meble, drabina, łata, mnóstwo narzędzi, worki z cementem, płyty gk
+- butelki po trunkach na stoliku
+- przedmioty budowlane: farby, gres, kafelki, stare rozwalone meble, drabina, łata, mnóstwo narzędzi, worki z cementem, płyty gk, wanna
 
 ## SEGMENT ŚRODKOWY - łazienka
 - przejście między lewą a środkową częścią sceny
 - materiały budowlane
 - kibel
+- gruz
 
 ## SEGMENT PRAWY - ludzie za taflą ekranu
 - wejście z prawej strony sceny
 - kamera telewizyjna skierowana na mieszkanie po lewej
 - mikrofon
 - kanapa
+
+# AKCJA
+**dzwonek do drzwi**
+
+**Mąż wstaje w gaciach z kanapy i drapie się po jajach. Podchodzi do lewych kulis i zaprasza do środka Ryha**: siema men
+
+**Ryhu**: cześć bracie, gotowy do nakurwiania?
+
+**Mąż**: kac jak diabli, ale dam radę. Głodny?
+
+**Ryhu**: niespecjalnie
+
+**Mąż**: kawki?
+
+**Ryhu**: o toto to to, kawkę chętnie
+
+**Mąż**: już robię. Która godzina?
+
+**Ryhu**: 9:43
+
+**Mąż**: kurwa spóźniłem się na calla **podbiega do laptopa przewracając przy okazji element scenografii**
+
+**Ryhu**: miałeś wziąć urlop
+
+**Mąż**: kumplowi się urodził wcześniak. Wbijam na calla. Zrób mi kawy. **Mąż zakłada słuchawki i klika na laptopie**
+
+**Ryhu**: chcesz jajówę?
+
+**Mąż**: poproszę
+
+**Ryhu wychodzi w lewo ze sceny**
+
+**Na kanapę po prawej stronie sceny wchodzi kilku inżynierów**
+
+**Informatyk**: o cześć Kuba, co tam? Jak remont?
+
+**Mąż**: wprost wspaniale. Wszystko mam rozjebane po chacie, a stara wraca za 10 dni.
+
+**Informatyk**: wylewka już wylana?
+
+**Mąż**: jeszcze musze wynieść gruz. A ty już masz ściany wygładzone?
+
+**Informatyk**: broda cała biała
+
+**Informatyk2**: dobrze, że nie nos
+
+**Informatyk3**: czy ja wiem czy dobrze
+
+**Mąż**: dobra co jest grane. coś mnie ominęło?
+
+**Informatyk4 ubrany najbardziej elegancko**: właściwie to jest twoja kolej na spowiedź. Jak tam storyjki? Te dwie przejebane przez poprzedni sprint chylą się ku ukończeniu? Mógłbyś dodać jakiś komentarz?
+
+**Mąż**: prawde rzekłszy mam drobny problem bo w Ansiblu nie da się wprost zrobić pętli w pętli. Zagnieżdżenie pętel się wypierdala przy kolejnych iteracjach. Niby jest jakiś na to workaround, ale bez użycia pytonga to słabo wygląda. Myślę, że skończę zanim Belg się wkurwi.
+
+**Informatyk4**: dobra. Napisz to w Dżirze. Puść jakiś commit.
+
+**Mąż**: OK
+
+**Informatyk3**: kończymy?
+
+**Informatyk4**: kończymy. Miłego dnia Panowie.
+
+**Informatycy1,2,3 i Mąż churalnie**: DOZO!
+
