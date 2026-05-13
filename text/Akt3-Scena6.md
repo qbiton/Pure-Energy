@@ -100,7 +100,7 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 **Mąż przyspiesza**
 
-**przechodzień**: własnie zostałeś określony królem życia
+**przechodzień**: właśnie zostałeś określony królem życia
 
 **fanki**: dziękujemy ci, że ty tutaj w ogóle jesteś. Chciałybyśmy ci zrobić loda.
 
