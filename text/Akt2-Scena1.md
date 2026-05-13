@@ -120,6 +120,14 @@ Scena jest podzielona na trzy segmenty.
 
 **Ryhu**: nie, serio nie jestem głodny.
 
-**Mąż bierze łyka kawy i wychodzi poza scenę lewymi kulisami rzuając**: włącz Civkę.
+**Mąż bierze łyka kawy, ubiera plecak i wychodzi poza scenę lewymi kulisami rzuając**: włącz Civkę.
 
-**Ryhu podchodzi do komputera stacjonarnego i klika w guzik power, telebim rozświetla się grą Sid Meier's Civilization 6. Włącza tryb dla wielu graczy i wczytuje ostatnio wpisany zapis gry w gorące pośladki. Staje na środku pomieszczenia i podpiera prawą ręką głowę, opierając tąże rękę na ręce lewej. Podnosi łatę. Idzie do łazienki. Ubiera rękawice. Zmiata gruz w jeden kraniec. Wrzuca gruz do wiader rękami. Zbiera pył i drobinki gruzu na szufelkę. Szufelkę opróżnia do wiader, które wynosi za kulisy. Wraca zza kulis im ierzy spad na podłodze pod różnymi kątami.**
+**Ryhu podchodzi do komputera stacjonarnego i klika w guzik power, telebim rozświetla się grą Sid Meier's Civilization 6. Włącza tryb dla wielu graczy i wczytuje ostatnio wpisany zapis gry w gorące pośladki. Staje na środku pomieszczenia i podpiera prawą ręką głowę, opierając tąże rękę na ręce lewej. Podnosi łatę. Idzie do łazienki. Ubiera rękawice. Zmiata gruz w jeden kraniec. Wrzuca gruz do wiader rękami. Zbiera pył i drobinki gruzu na szufelkę. Szufelkę opróżnia do wiader, które wynosi za kulisy. Wraca zza kulis im ierzy spad na podłodze pod różnymi kątami. Wraca do komputera i wykonuje swoją średniowieczną turę.**
+
+**Mąż wraca ze sklepu zajadając hot doga. Kładzie plecak na stoliku do kawy i wyciąga produkty na blat. Podaje energola Ryhowi i sobie otwiera też jednego**
+
+**Ryhu**: masz jakiś motywator?
+
+**Mąż**: dla mnie trochę za wcześnie, ale jeśli chcesz to jest w sypialni.
+
+**Ryhu wychodzi za scene mówiąc**: twoja tura.
