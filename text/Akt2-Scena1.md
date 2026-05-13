@@ -36,6 +36,10 @@ Scena jest podzielona na trzy segmenty.
 - materiały budowlane
 - kibel
 - gruz
+- wiadra
+- rękawice
+- miotła
+- szufelka
 
 ## SEGMENT PRAWY - ludzie za taflą ekranu
 - wejście z prawej strony sceny
@@ -118,4 +122,4 @@ Scena jest podzielona na trzy segmenty.
 
 **Mąż bierze łyka kawy i wychodzi poza scenę lewymi kulisami rzuając**: włącz Civkę.
 
-**Ryhu podchodzi do komputera stacjonarnego i klika w guzik power, telebim rozświetla się grą Sid Meier's Civilization 6. Włącza tryb dla wielu graczy i wczytuje ostatnio wpisany zapis gry w gorące pośladki. Staje na środku pomieszczenia i podpiera prawą ręką głowę, opierając tąże rękę na ręce lewej. Podnosi łatę. Idzie do łazienki. Mierzy spad na podłodze pod różnymi kątami.**
+**Ryhu podchodzi do komputera stacjonarnego i klika w guzik power, telebim rozświetla się grą Sid Meier's Civilization 6. Włącza tryb dla wielu graczy i wczytuje ostatnio wpisany zapis gry w gorące pośladki. Staje na środku pomieszczenia i podpiera prawą ręką głowę, opierając tąże rękę na ręce lewej. Podnosi łatę. Idzie do łazienki. Ubiera rękawice. Zmiata gruz w jeden kraniec. Wrzuca gruz do wiader rękami. Zbiera pył i drobinki gruzu na szufelkę. Szufelkę opróżnia do wiader, które wynosi za kulisy. Wraca zza kulis im ierzy spad na podłodze pod różnymi kątami.**
