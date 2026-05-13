@@ -1,4 +1,5 @@
-Na scenę wkracza nerd - ma na sobie białą koszulę z krótkim rękawem, szelki, grube okulary, czarne spodnie i czarne skórzane buty. Mówi śmieszkowatym, kwaskowatym, ironicznym głosem: AKT 2 SCENA 2 i schodzi ze sceny.
+Męski striptizer w stringach ze słoniem na członku wychodzi zza kulis przed kurtynę. Na klatce piersiowej napisane ma markerem: AKT 2 SCENA 3. Pręży mięśnie na środku sceny pokazując napis, po czym wychodzi za kulisy w drugą stronę.
+
 
 ```\gong i kurtyna\```
 
