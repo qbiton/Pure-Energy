@@ -3,6 +3,14 @@
 # SCENA
 Na środku pustej sceny ustawiona jest skierowana ku lewu bieżnia do chodzenia. Za bieżnią stoi duża, otwarta butelka z wodą. Oprócz tych dwóch przedmiotów na scenie widać otwarte okno. Z tyłu sceny ustawione są dwa głośniki symbolizujące dźwięk w słuchawkach. Oprócz głosów w słuchawkach leci spokojna, melancholijna muzyka (https://youtu.be/V0KBtHwaJcw?si=dlgLPgAWhKa99X44)
 
+# REKWIZYTY
+na siedzeniach w tetrze ułożone przed przyjściem widzów leżą wąskie paski papieru z prostymi kwestiami do użycia podczas aktu 3 sceny 6 - wrzutki na Męża, np.
+* ten typ tak ma
+* i ty chciałeś być królem
+* czas żebyś sięgnął po swoje
+* znowu ćpie?
+* ja mam
+
 # AKCJA
 Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TIME". Na głowie ma założone słuchawki do słuchania muzyki. Z lewej do prawej przechodnie w różnych strojach mijają Męża rzucając raz po raz hasłami. Część z nich dostaje notyfikację na smartfona i czyta za jego plecami wiadomość z sieci. Niektórzy nie mają telefonu i mówią od siebie.
 
