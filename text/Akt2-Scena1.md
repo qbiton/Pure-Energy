@@ -131,3 +131,5 @@ Scena jest podzielona na trzy segmenty.
 **Mąż**: dla mnie trochę za wcześnie, ale jeśli chcesz to jest w sypialni.
 
 **Ryhu wychodzi za scene mówiąc**: twoja tura.
+
+```/kurtyna/```
