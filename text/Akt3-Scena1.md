@@ -103,6 +103,8 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 **0**: Ech! A mogłeś być kimś.
 
-**Przechodnie rozchodzą się, nikt nawet przy Mężu nie przykucnął.**
+**Ludzie z syndromem postronnym zaczynają sie rozchodzić.**
+
+**Dzielna kobieta wybiega z tylnego rzędu siedzeń i wrzeszczy**: IDIOCI! DZWOŃCIE NA KARETKĘ!
 
 ```KURTYNA```
