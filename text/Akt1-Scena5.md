@@ -3,7 +3,7 @@ W białej todze wchodzi postawny mężczyzna, kłania się i rzecze: AKT 1 SCENA
 ```/kurtyna/```
 
 # SCENA
-
+* scena przedstawia amfiteatr
 * Słychać dźwięk ćwierkających ptaków
 * po stronach siedzeń amfiteatru są drzewa liściaste
 
@@ -18,7 +18,7 @@ https://soundcloud.com/green1-634541573/joseph-heller-bog-wie-rozdzial-1
 
 **Na scenie pojawia się para w średnim wieku z bardzo dużym muppetem. Siadają w oddaleniu od Męża**
 
-**Kaczor opera halabardę o ramię, prawą ręka wskazuje na Męża palcem, a lewą przywołuje gestem osoby za kulisami.**
+**Kaczor opiera halabardę o ramię, prawą ręka wskazuje na Męża palcem, a lewą przywołuje gestem osoby za kulisami.**
 
 **Na scenę wchodzi dwóch wojskowych. Podchodzą do Męża.**
 
