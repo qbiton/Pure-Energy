@@ -20,6 +20,7 @@ na siedzeniach w tetrze ułożone przed przyjściem widzów leżą wąskie paski
 * Ty my myśleliśmy, że jesteś z PiSu
 * Dziękuję, że nas wypuściłeś
 * ten Polish Hitler nas rozpierdala
+* podobno ciążą na tobie zarzuty o ludobójstwo
 
 itp. dużo obelg, trochę słodzenia i inne komentarze
 
