@@ -1,4 +1,6 @@
-```KURTYNA```
+Na scenę wchodzi mdoel w stroju krewetki i trzyma kartkę z napisem AKT 3 SCENA 6.
+
+```\gong i kurtyna\```
 
 # SCENA
 Na środku pustej sceny ustawiona jest skierowana ku lewu bieżnia do chodzenia. Za bieżnią stoi duża, otwarta butelka z wodą. Oprócz tych dwóch przedmiotów na scenie widać otwarte okno. Z tyłu sceny ustawione są dwa głośniki symbolizujące dźwięk w słuchawkach. Oprócz głosów w słuchawkach leci spokojna, melancholijna muzyka (https://youtu.be/V0KBtHwaJcw?si=dlgLPgAWhKa99X44)
