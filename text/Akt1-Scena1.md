@@ -73,7 +73,7 @@ Scena jest podzielona na trzy segmenty.
 
 **Mąż podchodzi do drukarki 3D**: a niech to szlag! Znowu się druk skasztanił. **wyłącza drukarkę, coś przy niej kombinuje, po czym włącza drukarkę ponownie** Może teraz się uda.
 
-**Kobieta w niebieskim pomieszczeniu**: Kuba mamy problem plepleple blablabla tickety blablabla plepleple klient bla bla bla ple ple ple techniczny żargon blablabla plepleple.
+**menadżerka w niebieskim pomieszczeniu**: Kuba mamy problem plepleple blablabla tickety blablabla plepleple klient bla bla bla ple ple ple techniczny żargon blablabla plepleple.
 
 **Mąż kreśląc białym pyłem linkę kartą bankomatową na blacie biurka**: spoko ogarniemy, zaraz się tym zajmę. **Sięga po słomkę i zdmuchuje przez nią linkę z biurka po czym zaczyna klikać.**
 
@@ -89,15 +89,15 @@ Scena jest podzielona na trzy segmenty.
 
 **Żona wychodzi do sypialni i zaczyna bawić się z wielkim muppetem**
 
-**Kobieta w niebieskim pomieszczeniu**: Kuba guzik mutujący nie działa.
+**menadżerka w niebieskim pomieszczeniu**: Kuba guzik mutujący nie działa.
 
 **Mąż**: Rwać, znowu? Jak wiele razy można spartaczyć ten sam kod? Czy oni w tej zawszonej Cykucie mają jakiś DevOps?
 
-**Kobieta w niebieskim pomieszczeniu**: nie wiem, zgłosiłam to wyżej. Nie wiemy gdzie wystawić ticket.
+**menadżerka w niebieskim pomieszczeniu**: nie wiem, zgłosiłam to wyżej. Nie wiemy gdzie wystawić ticket.
 
 **Informatyk z drożdżówką w buzi w niebieskim pomieszczeniu**: masz pojęcie, że myśmy to kupili?
 
-**Kobieta w niebieskim pomieszczeniu**: jacy my, ja nic nie kupowałam.
+**menadżerka w niebieskim pomieszczeniu**: jacy my, ja nic nie kupowałam.
 
 **Informatyk z drożdżówką w buzi w niebieskim pomieszczeniu**: nasz zarząd to kupił, serio ci mówię.
 
@@ -105,27 +105,27 @@ Scena jest podzielona na trzy segmenty.
 
 **Informatyk z drożdżówką w buzi w niebieskim pomieszczeniu**: ich pytaj. Niezbadane są wyroki zarządu.
 
-**Kobieta w niebieskim pomieszczeniu**: To co z tym Pe Jeden?
+**menadżerka w niebieskim pomieszczeniu**: To co z tym Pe Jeden?
 
 **Mąż wciąż grając w Disco Elysium**: Przywracam systemy z backupu. Trochę to potrwa.
 
-**Kobieta w niebieskim pomieszczeniu**: Jak długo?
+**menadżerka w niebieskim pomieszczeniu**: Jak długo?
 
 **Mąż**: Nie wiem, trzy lata?
 
-**Kobieta w niebieskim pomieszczeniu**: A tak na serio?
+**menadżerka w niebieskim pomieszczeniu**: A tak na serio?
 
 **Mąż**: Nie wiem czy to coś da.
 
-**Kobieta w niebieskim pomieszczeniu**: Dlaczego?
+**menadżerka w niebieskim pomieszczeniu**: Dlaczego?
 
 **Mąż**: Bo mamy rok 2020 a te systemy to bare metal z windowsem 2003.
 
-**Kobieta w niebieskim pomieszczeniu**: Mamy na to risk letter?
+**menadżerka w niebieskim pomieszczeniu**: Mamy na to risk letter?
 
 **Mąż**: Czy ja mam na sobie czapkę z napisem Service Manager?
 
-**Kobieta w niebieskim pomieszczeniu**: Nie wiem, nie widzę.
+**menadżerka w niebieskim pomieszczeniu**: Nie wiem, nie widzę.
 
 **Niski, bezcielesny, męski głos z głośnika**: Ja widzę. Biorę ten temat. Nie chlej tyle w pracy.
 

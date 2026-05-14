@@ -1,4 +1,4 @@
-** Striptizer w stroju biegacza z kartką na plecach z napisem AKT-1 Scena 4 i Modelka w stroju tancerki tańczą na środku sceny tatowarzyski**
+** Striptizer w stroju biegacza z kartką na plecach z napisem AKT-1 Scena 4 i Modelka w stroju tancerki tańczą na środku sceny taniec towarzyski**
 
 ```/gong i kurtyna/```
 
