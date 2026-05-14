@@ -44,3 +44,11 @@ cała scena oświetlona jest na niebiesko. Biurko i kanapa ustawione są bezład
 **wszyscy poza czarną postacią i mężem**: kto to powiedział?
 
 **pani w karmazynowym**: znowu jakieś duchy. Ja wychodzę. **schodzi ze sceny**
+
+**tajlandczyk**: ja też. Załatwcie to między sobą. Ja reprezentuje klienta. **schodzi ze sceny**
+
+**metroseksualny menadżer**: Ja się rozmów z duchami nie boję. Powiedzcie - co mamy zrobić w tej sprawie? Klient jest niezadowolony. Ekipa jest wzburzona. Macie jakiś pomysł?
+
+**postać w czarnym kapturze**: zaraz dostaniesz zaproszenie na konferencję. Tylko się nie zdziw. Zaprosisz na nią jego.
+
+```/kurtyna/```
