@@ -45,7 +45,7 @@ cała scena oświetlona jest na niebiesko. Biurko i kanapa ustawione są bezład
 
 **pani w karmazynowym**: znowu jakieś duchy. Ja wychodzę. **schodzi ze sceny**
 
-**tajlandczyk**: ja też. Załatwcie to między sobą. Ja reprezentuje klienta. **schodzi ze sceny**
+**tajlandczyk**: ja też. Załatwcie to między sobą. Ja jestem klientem. **schodzi ze sceny**
 
 **metroseksualny menadżer**: Ja się rozmów z duchami nie boję. Powiedzcie - co mamy zrobić w tej sprawie? Klient jest niezadowolony. Ekipa jest wzburzona. Macie jakiś pomysł?
 
