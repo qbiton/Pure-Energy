@@ -20,6 +20,31 @@ na siedzeniach w tetrze ułożone przed przyjściem widzów leżą wąskie paski
 * Ty my myśleliśmy, że jesteś z PiSu
 * Dziękuję, że nas wypuściłeś
 * ten Polish Hitler nas rozpierdala
+* pewnie bierze w łapę
+* na pewno coś wziął
+* wszyscy coś biorą
+* takie właśnie mamy elity
+* dokąd zmierza ten świat jeśli nawet święci muszą pracować?
+* święci tylko pracują
+* pedofil
+* pewnie kogoś zabił
+* ty to jesteś lepszy od Jezusa
+* mąż roku
+* ojciec roku
+* człowiek roku
+* znowu cię obsmarowali
+* też się będę tak ubierał
+* jeśli chce się A to trzeba O
+* jeśli chce się E to trzeba I
+* i ty chcesz nas reprezentować?
+* o boże kim ty jesteś?
+* przystąp już do tego programu
+* chcemy żebyś do tego programu przystąpił
+* ty to naprawde jesteś postacią z gry komputerowej
+* nie wiem czy wiesz ale całe twoje życie leci w radiu
+* nie wiem czy wiesz ale cały twój dom jest na podsłuchu
+* i ty masz się za profesjonalistę?
+
 
 itp. dużo obelg, trochę słodzenia i inne komentarze
 

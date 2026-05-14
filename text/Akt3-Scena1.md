@@ -1,3 +1,11 @@
+
+
+hello I am a holy grail currently kind of unholy
+
+i can't believe they bought it
+
+ten pacjent kieruje własną terapią w trakcie hipnozy
+
 hello i am national secret
 
 
