@@ -17,11 +17,11 @@ na siedzeniach w tetrze ułożone przed przyjściem widzów leżą wąskie paski
 * szczyl
 * siuśmiajtek
 * z kim ty przystajesz?
-* Ty my myśleliśmy, że jesteś z PiSu
-* Dziękuję, że nas wypuściłeś
+* Ty my myśleliśmy, że jesteś z PiSu * 2
+* Dziękuję, że nas wypuściłeś * 3
 * ten Polish Hitler nas rozpierdala
 * pewnie bierze w łapę
-* na pewno coś wziął
+* na pewno coś wziął * 3
 * wszyscy coś biorą
 * takie właśnie mamy elity
 * dokąd zmierza ten świat jeśli nawet święci muszą pracować?
@@ -37,8 +37,9 @@ na siedzeniach w tetrze ułożone przed przyjściem widzów leżą wąskie paski
 * jeśli chce się A to trzeba O
 * jeśli chce się E to trzeba I
 * i ty chcesz nas reprezentować?
-* o boże kim ty jesteś?
-* przystąp już do tego programu
+* o boże kim ty jesteś? * 10
+* nie wierzę kogo ja tu widzę * 5
+* przystąp już do tego programu * 5
 * chcemy żebyś do tego programu przystąpił
 * ty to naprawde jesteś postacią z gry
 * nie wiem czy wiesz ale całe twoje życie leci w radiu
