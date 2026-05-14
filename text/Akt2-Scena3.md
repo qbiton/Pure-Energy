@@ -1,6 +1,5 @@
 Męski striptizer w stringach ze słoniem na członku wychodzi zza kulis przed kurtynę. Na klatce piersiowej napisane ma markerem: AKT 2 SCENA 3. Pręży mięśnie na środku sceny pokazując napis, po czym wychodzi za kulisy w drugą stronę.
 
-
 ```\gong i kurtyna\```
 
 # SCENA
@@ -32,12 +31,9 @@ Scena jest podzielona na trzy segmenty.
 
 ## SEGMENT PRAWY
 
-
 ## AKCJA
 
-**Mąż leży w wannie i słucha wykładów Jordana petersona paląc skręta**
-
-**Z głośników leci wykład na temat różnic między kobietami a mężczyznami**
+**Mąż leży w wannie i słucha wykładów z uniwersystetu w Toronto Jordana petersona paląc skręta. Z głośników leci wykład na temat różnic między kobietami a mężczyznami a na telebimie wyświetla się jego wykład**
 
 **Do łazienki wchodzi żona**: musisz to palić?
 
@@ -61,7 +57,7 @@ Scena jest podzielona na trzy segmenty.
 
 **Żona wychodzi sfochowana z łazienki**
 
-**Mąż przełącza na wykład Jordana Petersona o wspólnych tematach wizji ludzi po ajahuasce**
+**Mąż przełącza na wykład z uniwersytetu w Toronto Jordana Petersona o wspólnych tematach wizji ludzi po halucynogenach**
 
 **Żona wraca do łazienki**: czego ty słuchasz?
 
@@ -69,6 +65,6 @@ Scena jest podzielona na trzy segmenty.
 
 **Żona**: i ta paplanina ci pomaga?
 
-**Mąż**: dochodzę do wniosku, że to ze światem jest coś nie tak
+**Mąż**: tak, pomaga, chociaż dochodzę do wniosku, że to ze światem jest coś nie tak
 
 ```\kurtyna\```
