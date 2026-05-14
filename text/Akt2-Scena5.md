@@ -36,3 +36,11 @@ cała scena oświetlona jest na niebiesko. Biurko i kanapa ustawione są bezład
 **metroseksualny menadżer**: Co mu się stało? D-dlaczego? **zaczyna się jąkać** P-prze-przecież zawsze dawał radę...
 
 **pani w karmazynowym**: kompletnie odbiła mu palma. Stwierdził, że kupił akcje, więc jest z zarządu.
+
+**metroseksualny menadżer**: no to musimy go zwolnić.
+
+**postać w czarnym kapturze się porusza a niski, męski głos z głośników wypowiada słowa**: jest pandemia. Nikt nie zostanie zwolniony.
+
+**wszyscy poza czarną postacią i mężem**: kto to powiedział?
+
+**pani w karmazynowym**: znowu jakieś duchy. Ja wychodzę. **schodzi ze sceny**
