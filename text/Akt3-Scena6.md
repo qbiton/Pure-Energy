@@ -40,7 +40,7 @@ na siedzeniach w tetrze ułożone przed przyjściem widzów leżą wąskie paski
 * o boże kim ty jesteś?
 * przystąp już do tego programu
 * chcemy żebyś do tego programu przystąpił
-* ty to naprawde jesteś postacią z gry komputerowej
+* ty to naprawde jesteś postacią z gry
 * nie wiem czy wiesz ale całe twoje życie leci w radiu
 * nie wiem czy wiesz ale cały twój dom jest na podsłuchu
 * i ty masz się za profesjonalistę?
