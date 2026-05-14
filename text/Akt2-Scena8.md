@@ -1,1 +1,3 @@
 akt 2 scena 8 cóż to - pusto?
+
+akcja masturbacja
