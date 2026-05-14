@@ -1,1 +1,1 @@
-ten pacjent kieruje własną terapią w trakcie hipnozy
+akt 2 scena 6 cóż to - pusto?

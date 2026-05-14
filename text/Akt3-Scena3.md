@@ -1,0 +1,1 @@
+akt 3 scena 3 cóż to - pusto?

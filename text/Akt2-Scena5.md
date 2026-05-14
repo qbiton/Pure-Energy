@@ -1,1 +1,1 @@
-i can't believe they bought it
+akt 2 scena 5 cóż to - pusto?

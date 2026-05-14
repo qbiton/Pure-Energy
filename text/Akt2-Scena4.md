@@ -27,3 +27,5 @@ cała scena oświetlona jest na niebiesko. Biurko i kanapa ustawione są bezład
 - biurko
 - laptop
 - kanapa
+
+# AKCJA

@@ -1,0 +1,1 @@
+akt 3 scena 5 cóż to - pusto?

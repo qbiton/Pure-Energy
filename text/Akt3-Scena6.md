@@ -45,6 +45,7 @@ na siedzeniach w tetrze ułożone przed przyjściem widzów leżą wąskie paski
 * nie wiem czy wiesz ale całe twoje życie leci w radiu
 * nie wiem czy wiesz ale cały twój dom jest na podsłuchu
 * i ty masz się za profesjonalistę?
+* i ty masz się za biseksualnego? kogoś tak heteroseksualnego nie widziałem
 
 itp. dużo obelg, trochę słodzenia i inne komentarze
 

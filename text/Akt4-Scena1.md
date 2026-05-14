@@ -1,3 +1,5 @@
+akt 4 scena 1 pomysł
+
 Jeśli nikt z publiczności się nie odezwał na scenę wychodzi reżyser z ośmioma kartkami A3 na których napisane jest: 
 AKT 4 SCENA 1 - drze tę kartkę
 AKT 4 SCENA 2 - drze tę kartkę
