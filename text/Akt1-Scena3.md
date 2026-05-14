@@ -26,23 +26,23 @@ Męski striptizer w stringach ze słoniem na członku wychodzi zza kulis przed k
 
 **Z głośników dochodzi dźwięk komunikatora**
 
-**Kobieta w niebieskim pomieszczeniu**: Kuba słuchaj jest sprawa. W dziale chmur potrzebują developera do programowania wdrażania systemów centrum danych. Jesteś zainteresowany?
+**menadżerka w niebieskim pomieszczeniu**: Kuba słuchaj jest sprawa. W dziale chmur potrzebują developera do programowania wdrażania systemów centrum danych. Jesteś zainteresowany?
 
 **Mąż**: mam na tapecie kilka tematów dotyczących automatyzacji często wykonywanych przez drugą linię wsparcia zadań. Niemniej pewnie, że jestem zainteresowany.
 
-**Kobieta w niebieskim pomieszczeniu**: Przygotuj się na rozmowę techniczną.
+**menadżerka w niebieskim pomieszczeniu**: Przygotuj się na rozmowę techniczną.
 
 **Mąż**: z której technologii?
 
-**Kobieta w niebieskim pomieszczeniu**: Windows, Linux i VMware.
+**menadżerka w niebieskim pomieszczeniu**: Windows, Linux i VMware.
 
 **Mąż**: no dobra, to kiedy ta rozmowa?
 
-**Kobieta w niebieskim pomieszczeniu**: o piętnastej.
+**menadżerka w niebieskim pomieszczeniu**: o piętnastej.
 
 **Mąż**: spoko, już sobie wkładam do ucha pendrive z dokumentacją i wstrzykuję ją prosto w jaźń. Coś jeszcze mam opierdolić czy tylko to?
 
-**Kobieta w niebieskim pomieszczeniu**: nie martw się o twoje aktualne zadania, zdeleguj je na kogoś innego. Sprawa jest pilna - oni naprawdę na gwałt kogoś potrzebują. Rozmowę poprowadzi ktoś kogo znasz. Dasz radę, wierzę w ciebie.
+**menadżerka w niebieskim pomieszczeniu**: nie martw się o twoje aktualne zadania, zdeleguj je na kogoś innego. Sprawa jest pilna - oni naprawdę na gwałt kogoś potrzebują. Rozmowę poprowadzi ktoś kogo znasz. Dasz radę, wierzę w ciebie.
 
 **Z głośników rozbrzmiewają słowa dziecka**: tato jestem głodna.
 

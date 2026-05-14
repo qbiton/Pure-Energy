@@ -65,8 +65,49 @@ cała scena oświetlona jest na niebiesko. Biurko i kanapa ustawione są bezład
 
 **informatyk2**: ja chyba rozumiem. Chodzi o to, że lludzie, którzy sprawdzają się w swoich poprzednich rolach zostają przyjęci wyżej, gdzie się nie sprawdzają...
 
-**menadżerka**: ...i się wypalają.
-
 **nastaje chwila milczenia**
 
-**menadżerka**: właśnie dostałam wiadomość od zarządu, że znalazł sie inny projekt dla niego. Sprawa zamknięta.
+**menadżerka**: ...i się wypalają.
+
+**informatyk2**: czajcie to - on kupił te akcje, które nam wpychają.
+
+**informatyk1**: serio? przecież to jest ciężka chujnia.
+
+**informatyk2**: no, deal życia - wartość korpo leci na łeb na szyję, a on co? ładuje w to marną kasę, którą zarabia
+
+**informatyk3**: panowie wstyd się przyznać ale ja też kupiłem.
+
+**informatyk1**: dużo?
+
+**informatyk3**: nie, niedużo - tyle, żeby dostać drugie tyle akcji.
+
+**informatyk2**: a on?
+
+**informatyk3**: nie wiem, pewnie tyle samo
+
+**informatyk1**: i tak dodrukują tyle, że to będzie bez wartości
+
+**menadżerka**: możemy wrócić do tematu?
+
+**informatyk2**: ech, no to wróćmy - Kuba pomógł mi gdy ja dołączałem do korpo, mogę się odwdzięczyć.
+
+**informatyk1**: tylko co możemy zrobić? Ja nie mam pomysłów.
+
+**informatyk3**: może przejrzyjmy dostępne stanowiska pokrewne? Gdzieś się pewnie miejsce dla niego znajdzie.
+
+**menadżerka**: O TAK! No to po problemie.
+
+**informatycy**: Co?
+
+**menadżerka**: właśnie dostałam wiadomość od zarządu, że znalazł sie inny projekt dla niego. Sprawa rozwiązała się sama.
+
+**informatyk1**: zajebioza. Muszę się wysrać.
+
+**informatyk2**: ja lecę po dzieciaki.
+
+**informatyk3**: ja idę coś zjeść, zaraz mam calla z belgiem.
+
+**menedżarka**: papasiu!
+
+```/kurtyna/```
+
