@@ -30,8 +30,198 @@
 
 **Głosy**: jak myślisz ile minęło czasu?
 
-**Mąż**: nie wiem. Dwie godziny? Pięć minut? Trzy godziny? Trudno stwierdzić.
+**Mąż**: nie wiem. Dwie godziny? Pięć minut? Trzy godziny? Trudno stwierdzić. Ty mi powiedz.
 
+**Głosy**: powiedz, że jestem twoim mistrzem, to ci powiem.
 
- analog disc red herring, repeating phrases, 200tons of cocaine, why are you so aggressive?
+**Mąż**: nie powiem
+
+**Głosy**: powiedz... chociaż raz?
+
+**Mąż**: ty to jesteś atomem gówna
+
+**Głosy**: będę cię torturował dłużej
+
+**Mąż**: ZA KOGO TY MNIE MASZ?!
+
+**Głosy**: na mnie to już nie działa
+
+**Mąż**: ech, próbowałem.
+
+**Głosy**: Dlaczego jesteś taki agresywny?
+
+**Mąż**: Mam rozdwojenie jaźni.
+
+**Głosy**: i co to zmienia?
+
+**Mąż**: Ta osobowość jest młoda. Dzieci są małymi psychopatami. Trzeba je uczyć manier i empatii.
+
+**Głosy**: Nie brzmisz teraz na dziecko.
+
+**Mąż**: Persony mi sie mieszają.
+
+**Głosy**: Jesteś zdrowo pobierdolony
+
+**Mąż**: a ty nie potrafisz nawet zmusić zahipnotyzowanego człowieka do spełnienia twojej woli
+
+**Głosy**: skąd ty o tym wszystkim wiesz?
+
+**Mąż**: mówiłem ci - mam trzy tysiące lat. Poza tym byłem do tego przygotowywany przez całe życie.
+
+**Głosy**: w jaki sposób?
+
+**Mąż**: moja data narodzin to 890123. Czaisz?
+
+**Głosy**: nie nie czaję
+
+**Głosy**: ja pierdole masz overflow w dacie urodzenia
+
+**Mąż**: w rzeczy samej. umiem liczyć. ignorancie z USA wiesz co się wydarzyło w 1989?
+
+**Głosy**: Skąd wiesz skąd jestem?
+
+**Mąż**: masz akcent
+
+**Głosy**: myślałem, że nie rozpoznajesz naszych głosów
+
+**Mąż**: jesteś zbyt głupi nawet na to, żeby użyć zmieniacza głosu
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
+**Mąż**:
+
+**Głosy**:
+
 
