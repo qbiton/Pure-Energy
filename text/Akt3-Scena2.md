@@ -131,6 +131,16 @@ poison
 
 **Mąż**: jeśli będzie trzeba, to będe pacyfikował.
 
+**głosy**: a tak naprawdę?
+
+**Mąż**: w życiu nie nadmuchałem nawet żaby. Zdarzyło mi się kopnąć psa.
+
+**głosy**: ty potworze!
+
+**głosy**: wypierdalaj.
+
+*pik*
+
 *szum*
 
 **głosy**: śpij
