@@ -127,6 +127,10 @@ poison
 
 **Mąż**: Nie. Jestem pacyfistą. Polsce wystarczą granice takie jakie mamy. Takie jakie wywalczyli dla nas chłopcy w Normandii.
 
+**głosy**: co dla ciebie znaczy być pacyfistą?
+
+**Mąż**: jeśli będzie trzeba, to będe pacyfikował.
+
 *szum*
 
 **głosy**: śpij
