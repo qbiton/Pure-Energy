@@ -10,7 +10,7 @@
 
 **Obok kukieł stoi metroseksualny menadżer**
 
-**Konferansjer**: Przedstawiam tę o to szanowną bandę decydentów! Kandydat numer 1 to Global Twoja Stara Menadżer! Świetnie gra w bierki i lubi ruchać się na pieska!
+**Konferansjer**: Przedstawiam tę oto szanowną bandę decydentów! Kandydat numer 1 to Global Twoja Stara Menadżer! Świetnie gra w bierki i lubi ruchać się na pieska!
 
 **Konferansjer**: Kandydat numer 2 to Skorumpowany Sprzedawca Kłamstw! Jego charyzma nie zna granic i doprowadził do zadłużenia na tylko sto milionow!
 
@@ -33,3 +33,29 @@
 **metroseksualny menadżer przerywa Konferansjerowi**: cześć Jakub
 
 **Z głośników dochodzą różne głosy przywitań, ale są płaskie, przygaszone, bezdźwięcznie pozbawione basu**
+
+**Głosy**: Jakub jesteśmy tu z twojego powodu
+
+**Głosy**: Jakub nie wiemy już co mamy robić
+
+**Głosy**: Jakub mamy wielki problem na naszych rękach
+
+**Głosy**: Jakub chcemy żebyś przestał odpierdalać manianę
+
+**Głosy**: Jakub? Żakub?
+
+**Głosy**: On już nie słyszy nawet własnego imienia
+
+**Głosy**: Potrzebujemy pomocy
+
+**Głosy**: Pomocą jesteś ty
+
+**Głosy**: Zachowujesz się jak bóg. Nie robisz nic
+
+**Głosy**: Więc tak cię potraktujemy
+
+**Głosy**: Jakub zabijamy cię
+
+**Echo Głosów**: zabijamy cię... zabijamy cię... zabijamy cię...
+
+```/kurtyna/```
