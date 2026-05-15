@@ -19,7 +19,8 @@ Scena jest podzielona na trzy segmenty.
 - zielone biurko pod niebieską ścianą
 - laptop na biurku
 - słuchawki podpięte do laptopa
-- komputer stacjonarny
+- trzyczęściowa, stojąca, otwarta półka/regalik z drewna
+- wybebeszony komputer stacjonarny bez obudowy przywiązany do półki w chaotyczny sposób
 - monitor ekranowy
 - myszka
 - klęcznik do biurka
