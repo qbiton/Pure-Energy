@@ -98,130 +98,53 @@
 
 **Mąż**: Skrzywdzisz się przez to sam. Zaprawdę powiadam ci, że nie wiesz na co się piszesz.
 
-**Głosy**:
+**Głosy**: No dobra, podpowiedz mi jak cię rozjebać.
 
-**Mąż**:
+**Mąż i Głosy w wymyślonym języku przygotowując tortury męża, co zagłuszane jest przez 23 dźwięki "trzask, are you ready now?**.
 
-**Głosy**:
+**trzask, are you ready now?**
 
-**Mąż**:
+**trzask, are you ready now?**
 
-**Głosy**:
+**trzask, are you ready now?**
 
-**Mąż**:
+**trzask, are you ready now?**
 
-**Głosy**:
+**trzask, are you ready now?**
 
-**Mąż**:
+**trzask, are you ready now?**
 
-**Głosy**:
+**trzask, are you ready now?**
 
-**Mąż**:
+**trzask, are you ready now?**
 
-**Głosy**:
+**trzask, are you ready now?**
 
-**Mąż**:
+**trzask, are you ready now?**
 
-**Głosy**:
+**trzask, are you ready now?**
 
-**Mąż**:
+**trzask, are you ready now?**
 
-**Głosy**:
+**trzask, are you ready now?**
 
-**Mąż**:
+**trzask, are you ready now?**
 
-**Głosy**:
+**trzask, are you ready now?**
 
-**Mąż**:
+**trzask, are you ready now?**
+**trzask, are you ready now?**
 
-**Głosy**:
+**trzask, are you ready now?**
 
-**Mąż**:
+**trzask, are you ready now?**
 
-**Głosy**:
+**trzask, are you ready now?**
 
-**Mąż**:
+**trzask, are you ready now?**
 
-**Głosy**:
+**trzask, are you ready now?**
 
-**Mąż**:
+**trzask, are you ready now?**
 
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-**Mąż**:
-
-**Głosy**:
-
-
+```\kurtyna\```
