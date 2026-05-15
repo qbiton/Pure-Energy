@@ -18,7 +18,7 @@
 
 **Głosy Męskie**: Jesteś kuloodporny?
 
-**Mąż**: Nie.
+**Mąż**: Nie. Jestem za to odporny na trucizny.
 
 **Głosy Męskie**: Co ci sie stało?
 
@@ -36,7 +36,7 @@
 
 **Mąż**: Mam wam ułatwić? Nie ma tak lekko.
 
-**Głosy kobiece**: KURWA KUBA OBUDŹ SIĘ.
+**Głosy kobiece**: KURWA KUBA OBUDŹ SIĘ!
 
 **Głosy Męskie**: Jesteś bogiem. Chcemy żebyś nauczył się latać.
 
