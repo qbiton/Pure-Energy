@@ -19,5 +19,22 @@ Na scenę wchodzą dwaj szermierze i zaczynają walczyć rapierami. Walczą tak 
 
 **rozmarzony młodzieniec z notatnikiem siedzi na dachu**
 
-**młodzieniec mówi do mikrofonu spokojnym głosem:** We embarked on a dangerous mission
+**młodzieniec mówi do mikrofonu spokojnym głosem:**
 
+```
+We embarked on a dangerous mission
+Our goal is to free the minority from oppression
+And although we mean no harm to others
+The fight for freedom of oppressed
+Is a fight we must face
+
+Rescuing those who suffer is a honorable endeavor
+Those who fall will be remembered
+
+I don't have doubt in that you will succeed
+You are well prepared and have my full support
+Me and you - we are the us army
+So don't forget you have brothers in arms
+
+Stay vigilant and godspeed.
+```
