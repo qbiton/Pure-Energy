@@ -15,5 +15,12 @@ hello i am national secret
 
 i am a holy grail
 
-i can't believe they bought it
+I am your trust
+
+i want your head in a jar
+
+i want his kidneys
+
+i want his eyes
+
 

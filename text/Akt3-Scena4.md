@@ -11,7 +11,7 @@ akt 3 scena 4 cóż to - pusto?
 * słuchawki
 
 
-I am a pedophile, I am a megaloman, I am friends with putain, destruction of ego, deep sleep spiral dog, 
+I am a pedophile, I am a megaloman, I am friends with putain, destruction of ego, deep sleep spiral dog, testing strength of our network
 
 
 
