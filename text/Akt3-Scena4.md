@@ -41,7 +41,7 @@ Stay vigilant and godspeed.
 
 **pomarańczowi i khaki spoglądają na megafon i po sobie wzajemnie**
 
-**kapitan uderza w góry worek stosu**: fuck me! How are you doing this?
+**kapitan uderza w górny worek stosu**: fuck me! How are you doing this?
 
 **młodzieniec, już nie do mikrofonu**: co ja takiego robię?
 
