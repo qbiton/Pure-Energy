@@ -138,7 +138,7 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 **tutaj następują wrzutki statystów/aktorow jednowierszowych, którzy są wśród publiczności - nadzieja jest na to, że część publiczności się uaktywni. **
 
-**Aktor gdy zapadnie cisza**: właśnie zostałeś określony królem życia
+**Aktor gdy zapadnie cisza**: właśnie zostałeś określony w mediach królem życia
 
 **mąż łapie się za serce i spada nieprzytomny z bieżni.**
 
