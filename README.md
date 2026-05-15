@@ -10,8 +10,8 @@ As you may know every tool can be used to do good as well as for evil.
 This time we turned something evil into something good.
 
 This is my message,
-
 Jakub Jan Jordan Zieliński
 Self Proclaimed Professor of Applied Martyrology
+
 End of Transmission.
 ```
