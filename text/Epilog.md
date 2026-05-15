@@ -167,7 +167,7 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 **Ludzie z syndromem postronnym zaczynają sie rozchodzić.**
 
-**Dzielna kobieta wybiega z tylnego rzędu siedzeń i wrzeszczy**: IDIOCI! DZWOŃCIE PO KARETKĘ! **Dobiega do Męża i sprawdza oddech, sprawdza czy nie ma czegoś w buzi i układa go w pozycji bezpiecznej** KTO MA TELEFON? **żaden z aktorów nie wypowiada żadnej kwestii** PYTAM RAZ JESZCZE KTO MA TELEFON?! **aktorzy milczą** KTO DO JASNEJ ANIELKI MA TELEFON?! **aktorzy milczą** CZY WY JESTEŚCIE JESZCZE LUDŹMI?! CZY KTOŚ MA KURWA TELEFON? **i tak w kółko aż w końcu odezwie się ktoś z publiczności, skończy się jej para w płucach, albo reżyser stwierdzi, że to nuda.**
+**Dzielna kobieta wybiega z tylnego rzędu siedzeń i wrzeszczy**: IDIOCI! DZWOŃCIE PO KARETKĘ! **Dobiega do Męża i sprawdza oddech, sprawdza czy nie ma czegoś w buzi i układa go w pozycji bezpiecznej** KTO MA TELEFON? **żaden z aktorów nie wypowiada żadnej kwestii** PYTAM RAZ JESZCZE KTO MA TELEFON?! **aktorzy milczą** KTO DO JASNEJ ANIELKI MA TELEFON?! **aktorzy milczą** CZY WY JESTEŚCIE JESZCZE LUDŹMI?! CZY KTOŚ MA KURWA TELEFON? **i tak w kółko aż w końcu odezwie się ktoś z publiczności, skończy się jej para w płucach, albo reżyser stwierdzi, że to nuda. Jeśli ktoś powie, że ma telefon - mąż wstaje i otrzepuje swoje odzienie**
 
 ```KURTYNA```
 
