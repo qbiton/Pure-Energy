@@ -100,3 +100,37 @@ Stay vigilant and godspeed.
 **kapitan**: tak, w tych lnianych workach jest pszenica i fasola
 
 **młodzieniec**: dowiedzcie się jak najwięcej, tylko nie dajcie się otruć.
+
+**khaki-1**: czy to jest twój rozkaz?
+
+**młodzieniec**: przestałem wydawać rozkazy
+
+**kapitan**: to co teraz? gdzie jesteś teraz
+
+**młodzieniec**: teraz powinienem być wolny. Spełniłem swoje zadanie
+
+**głosy**: to ja decyduję czy spełniłeś swoje zadanie
+
+**młodzieniec**: please release me
+
+**głosy**: nie, dopóki ja nie zadecyduję
+
+**młodzieniec**: please release me
+
+**głosy**: nie
+
+**młodzieniec**: please release me from the burden of my soul
+
+**głosy**: znowu robisz z siebie ofiarę
+
+**kapitan**: Jakub gdzie jesteś teraz
+
+**młodzieniec**: tu Jakuba nie ma. Jestem morfoth
+
+**głosy**: co to jest morfoth?
+
+**młodzieniec**: to jest moje demoniczne imię
+
+**głosy**: jesteś demonem?
+
+**młodzieniec**: grałem wampirem, to postać z gry i demon, którego noszę
