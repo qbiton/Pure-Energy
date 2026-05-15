@@ -112,7 +112,7 @@
 
 **Głosy Męskie**: dobra... sam tego chciałeś. Zanim cię zabijemy opowiedz coś nam o sobie. Jak chcesz być zapamiętany?
 
-**Mąż**: urodziłem się po to, żeby pomagać, ale nie wiem czy robimy to, co powinniśmy.
+**Mąż**: urodziłem się po to, żeby pomagać, ale nie wiem czy robimy to, co jest słuszne.
 
 **Głosy Męskie**: odpocznij. idź teraz spać. obudzisz się za 30 minut i nie będziesz nic pamiętał.
 
