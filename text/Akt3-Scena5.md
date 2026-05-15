@@ -8,11 +8,6 @@
 * kwiat na oknie
 * słuchawki
 
-messed up prayer
 
-corsairs
-
-churchill
-
-saturn
+I am a pedophile, I am a megaloman, I am friends with putain, destruction of ego, deep sleep spiral dog, testing strength of our network
 

@@ -1,4 +1,4 @@
-akt 3 scena 4 cóż to - pusto?
+Na scenę wchodzi kuso ubrana lecz pełnoletnia kobieta w krótkich niebieskich spodenkach, koszulce odkrywającej pempek i butach sportowych. Włosy ma spięte w kucyki i liże lizaka. Na uszach ma słuchawki i patrzy w telefon. Schodzi ze sceny. 
 
 ```/gong i kurtyna/```
 
@@ -10,9 +10,12 @@ akt 3 scena 4 cóż to - pusto?
 * kwiat na oknie
 * słuchawki
 
+# AKCJA
 
-I am a pedophile, I am a megaloman, I am friends with putain, destruction of ego, deep sleep spiral dog, testing strength of our network
+corsairs
 
+churchill
 
+saturn
 
-
+messed up prayer
