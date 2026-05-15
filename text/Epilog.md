@@ -126,8 +126,6 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 **Mąż przyspiesza**
 
-**przechodzień**: właśnie zostałeś określony królem życia
-
 **fanki**: dziękujemy ci, że ty tutaj w ogóle jesteś. Chciałybyśmy ci zrobić loda.
 
 **reporterka**: możesz myśleć o sobie, że masz medal. Zrób coś, rząd nam się rozpierdala!
@@ -138,7 +136,9 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 **Mąż wchodzi spowrotem na bieżnię, zaczyna truchtać**
 
-**tutaj następują wrzutki statystów/aktorow jednowierszowych, którzy są wśród publiczności - nadzieja jest na to, że część publiczności się uaktywni. Jeśli zapadnie cisza mąż łapie się za serce i spada nieprzytomny z bieżni.**
+**tutaj następują wrzutki statystów/aktorow jednowierszowych, którzy są wśród publiczności - nadzieja jest na to, że część publiczności się uaktywni. **
+
+** Aktor gdy zapadnie cisza**: właśnie zostałeś określony królem życiamąż łapie się za serce i spada nieprzytomny z bieżni.**
 
 **Dookoła niego pojawiają się przechodnie i stają w kółku**
 *jeśli w teatrze wystarczy miejsc statyści/postaci epizodyczne wymawiające pojedyncze kwestie mogą siedzieć pomiędzy publiką*
