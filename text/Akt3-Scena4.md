@@ -31,10 +31,14 @@ Is a fight we must face
 Rescuing those who suffer is a honorable endeavor
 Those who fall will be remembered
 
-I don't have doubt in that you will succeed
+I don't have doubt in that you are going to succeed
 You are well prepared and have my full support
 Me and you - we are the us army
 So don't forget you have brothers in arms
 
 Stay vigilant and godspeed.
 ```
+
+**pomarańczowi i khaki spoglądają na megafon i po sobie**
+
+**kapitan uderza w góry worek stosu**: fuck me! How are you doing this
