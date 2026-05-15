@@ -138,7 +138,9 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 **tutaj następują wrzutki statystów/aktorow jednowierszowych, którzy są wśród publiczności - nadzieja jest na to, że część publiczności się uaktywni. **
 
-** Aktor gdy zapadnie cisza**: właśnie zostałeś określony królem życiamąż łapie się za serce i spada nieprzytomny z bieżni.**
+**Aktor gdy zapadnie cisza**: właśnie zostałeś określony królem życia
+
+**mąż łapie się za serce i spada nieprzytomny z bieżni.**
 
 **Dookoła niego pojawiają się przechodnie i stają w kółku**
 *jeśli w teatrze wystarczy miejsc statyści/postaci epizodyczne wymawiające pojedyncze kwestie mogą siedzieć pomiędzy publiką*
