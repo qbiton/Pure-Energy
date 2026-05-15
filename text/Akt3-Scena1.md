@@ -132,19 +132,19 @@
 
 **Żona**: muszę jechać do rodziny, bo mają problem.
 
-**Mąż**: ja też mam problem. Możesz mnie przez chwile posłuchać?
+**Mąż**: ja też mam problem. Możesz mnie przez chwilę posłuchać?
 
 **Żona**: ale tu jest syf. Sprzątnij chociaż ten popiół z biurka.
 
-**Mąż**: dzieje się ze mną coś złego. Nie wiem co mi jest. Prosze cię wyjedźmy na wieś.
+**Mąż**: dzieje się ze mną coś złego. Nie wiem co mi jest. Proszę cię wyjedźmy na wieś.
 
 **Żona**: nie możemy, ja nie mogę pracować zdalnie - muszę iść do pracy.
 
-**Mąż**: Słuchaj. Ze mną dzieje się coś naprawde złego. Weź wolne. Jedźmy do twojej rodziny na wieś. Pomogę przy krowach.
+**Mąż**: Słuchaj. Ze mną dzieje się coś naprawdę złego. Weź wolne. Jedźmy do twojej rodziny na wieś. Pomogę przy krowach.
 
 **Żona**: nie mogę w firmie jest za dużo do zrobienia. Prezes mnie nie puści.
 
-**Mąż**: kupiłem ci przecież laptopa żebyś mogła pracować zdalnie. Prosze cię wyjedźmy. Ja tu dostaję w głowę. Nie wiem co mi jest. Dzieje się ze mną coś bardzo złego.
+**Mąż**: kupiłem ci przecież laptopa żebyś mogła pracować zdalnie. Proszę cię wyjedźmy. Ja tu dostaję w głowę. Nie wiem co mi jest. Dzieje się ze mną coś bardzo złego.
 
 **Żona**: wymyślasz.
 
