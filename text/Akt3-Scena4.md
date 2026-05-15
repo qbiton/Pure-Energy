@@ -39,6 +39,22 @@ So don't forget you have brothers in arms
 Stay vigilant and godspeed.
 ```
 
-**pomarańczowi i khaki spoglądają na megafon i po sobie**
+**pomarańczowi i khaki spoglądają na megafon i po sobie wzajemnie**
 
-**kapitan uderza w góry worek stosu**: fuck me! How are you doing this
+**kapitan uderza w góry worek stosu**: fuck me! How are you doing this?
+
+**młodzieniec, już nie do mikrofonu**: co ja takiego robię?
+
+**kapitan**: jak ty to robisz, że zawsze wiesz co powiedzieć?
+
+**pomarańczowy**: mnie to na moment zmroziło
+
+**khaki**: mnie też przeszły ciary po plecach
+
+**kapitan**: nie, nie - powiedz mi jak?! chcę wiedzieć gdzie teraz jesteś!
+
+**młodzieniec**: siedzę oparty nad mostkiem o barierkę z przewieszoną nogą przez dziure w barierce. Pachy opieram na środkowej części barierki. Nade mną jest już tylko radar. Mam czas na odpoczynek. Siedzę tak i piszę wiersz.
+
+**kapitan**: i ty to widzisz?
+
+**młodzieniec**: przez chwilę widziałem to oczami wyobraźni
