@@ -1,5 +1,7 @@
 **Na scenę w cylindrze wchodzi ślepiec z białą laską. Schodzi w milczeniu ze sceny.**
 
+```/kurtyna/```
+
 # SCENA
 * klęcznik
 * biurko ustawione na środku sceny
@@ -98,7 +100,7 @@
 
 **Głosy Męskie**: naprawdę? godzisz się na tortury?
 
-**Mąż**: pewnie. Jestem tak nieszczęśliwy, że przed śmiercią mogę się do czegoś przydać.
+**Mąż**: pewnie. Jestem tak nieszczęśliwy, że przed śmiercią mogę się do czegoś przydać. Zgadzam się na torturowanie dźwiękiem MNIE.
 
 **Głosy Kobiece**: rzygać mi się już chce od tego twojego pierdolenia.
 
