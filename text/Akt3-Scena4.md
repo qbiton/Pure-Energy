@@ -58,3 +58,45 @@ Stay vigilant and godspeed.
 **kapitan**: i ty to widzisz?
 
 **młodzieniec**: przez chwilę widziałem to oczami wyobraźni
+
+**kapitan**: a teraz co widisz?
+
+**młodzieniec** zachód słońca i ekipę zbierającą się do helikoptera typu Apache.
+
+**kapitan**: a teraz?
+
+**młodzieniec**: lądujący helikopter na wzniesieniu w tropikalnym, gęstym lesie
+
+**kapitan**: co jest tam jeszcze?
+
+**młodzieniec**: widze wioskę, w której jest kilku tubylców
+
+**khaki-2**: jakie są twoje rozkazy?
+
+**młodzieniec**: skończyłem wydawać rozkazy
+
+**khaki-1**: dlaczego?
+
+**młodzieniec**: przeraża mnie ta gra
+
+**kapitan**: w co ty pogrywasz? życie to nie gra
+
+**młodzieniec**: cały świat jest sceną.
+
+**kapitan**: to co odgrywamy teraz?
+
+**młodzieniec**: zajmijcie perymetr
+
+**khaki-2**: wieśniacy zaczynają odchodzić.
+
+**młodzieniec**: znacie ich język?
+
+**khaki1-1**: nie ale mamy elekrtocznicznego tłumacza
+
+**młodzieniec**: niech dwóch z was odda broń pozostałym, zanieście im jedzenie, które macie w helikopterze
+
+**khaki-2**: serio? mamy jakieś jedzenie?
+
+**kapitan**: tak, w tych lnianych workach jest pszenica i fasola
+
+**młodzieniec**: dowiedzcie się jak najwięcej, tylko nie dajcie się otruć.
