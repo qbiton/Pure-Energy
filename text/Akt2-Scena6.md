@@ -58,4 +58,4 @@
 
 **Echo Głosów**: zabijamy cię... zabijamy cię... zabijamy cię...
 
-```/kurtyna/```
+```/kurtyna i antrakt/```
