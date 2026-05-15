@@ -227,3 +227,4 @@ Z głośników przez dwie minuty dochodzi dźwięk wytworzony przez igłę na ko
 **trzask, are you ready now?**
 **trzask, are you ready now?**
 **trzask, are you ready now?**
+**Z głośników leci piosenka Stalagmit - Smoki**
