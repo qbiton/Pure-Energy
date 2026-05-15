@@ -33,6 +33,6 @@ I am a pedophile, I am a megaloman, I am friends with putain, destruction of ego
 
 **Mąż**: rezultat jest taki, że gdy się budzę błądzę po pomieszczeniach jak starzec z alzheimerem szukający w domu starców zapalniczki do papierosa, którego nie ma. Potem nie wiem czy to wydarzyło się naprawdę, czy mi się to przyśniło.
 
-**głosy**: aha, już rozumiem - czyli pakiety w twojej sieci neuronowej wówczas przechodzą w jedną stronę
+**głosy**: aha, już rozumiem - czyli pakiety w twojej sieci neuronowej teraz przechodzą w jedną stronę.
 
-**Mąż**: można by tak powiedzieć.
+**Mąż**: można by tak powiedzieć. Teraz mam dostęp do osobowości, którą jestem na codzień i jednocześnie tworzy się pamięć tej nowej osobowości, do której mam tylko częściowy dostęp przez chwilę. Potem rodzina wmawia mi, że mam urojenia i to, że mnie torturujecie się nie dzieje, co jeszcze bardziej utrudnia mi przyswojenie tych rozmów.
