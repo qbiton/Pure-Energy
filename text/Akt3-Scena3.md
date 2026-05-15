@@ -60,7 +60,7 @@
 
 **Mąż**: Persony mi sie mieszają.
 
-**Głosy**: Jesteś zdrowo pobierdolony
+**Głosy**: Jesteś zdrowo popierdolony
 
 **Mąż**: a ty nie potrafisz nawet zmusić zahipnotyzowanego człowieka do spełnienia twojej woli
 
@@ -74,7 +74,7 @@
 
 **Głosy**: nie, nie czaję
 
-**Głosy**: ja pierdole masz overflow w dacie urodzenia
+**Głosy**: ja pierdolę masz overflow w dacie urodzenia
 
 **Mąż**: w rzeczy samej. umiem liczyć. ignorancie z USA wiesz co się wydarzyło w 1989?
 
