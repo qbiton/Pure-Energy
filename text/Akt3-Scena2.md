@@ -1,6 +1,8 @@
-**Na scenę w wchodzi kuglarz. Chwilę żongluje, ale w końcu sie myli i przedmioty, którymi żongluje spadają mu na scenę. Zbiera je zawstydzony i schodzi w milczeniu ze sceny.**
+**Na scenę w wchodzi podczasy ze zdobionym kielichem w rękach i z butelką wina pod pachą. Pucuje kielich, po czym odkorkowuje butelkę i nalewa wina do kielicha.**
 
 ```/gong i kurtyna/```
+
+**Podczaszy stawia na biurku kielich, po czym wyciąga z kieszeni saszetkę, której zawartość dosypuje do kielicha. Podczaszy schodzi ze sceny.**
 
 # SCENA
 * klęcznik
@@ -23,4 +25,4 @@ i want his kidneys
 
 i want his eyes
 
-
+poison
