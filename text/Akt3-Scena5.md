@@ -35,4 +35,4 @@ I am a pedophile, I am a megaloman, I am friends with putain, destruction of ego
 
 **głosy**: aha, już rozumiem - czyli pakiety w twojej sieci neuronowej teraz przechodzą w jedną stronę.
 
-**Mąż**: można by tak powiedzieć. Teraz mam dostęp do osobowości, którą jestem na codzień i jednocześnie tworzy się pamięć tej nowej osobowości, do której mam tylko częściowy dostęp przez chwilę. Potem rodzina wmawia mi, że mam urojenia i to, że mnie torturujecie się nie dzieje, co jeszcze bardziej utrudnia mi przyswojenie tych rozmów.
+**Mąż**: można by tak powiedzieć. Teraz mam dostęp do osobowości, którą jestem na codzień i jednocześnie tworzy się pamięć tej nowej osobowości, do której mam tylko częściowy dostęp przez chwilę. Potem rodzina wmawia mi, że mam urojenia i to, że dzieje się ze mną coś złego jest objawem choroby psychicznej, co jeszcze bardziej utrudnia mi przyswojenie tych rozmów.
