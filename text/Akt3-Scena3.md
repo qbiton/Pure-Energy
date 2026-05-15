@@ -100,7 +100,7 @@
 
 **Głosy**: No dobra, podpowiedz mi jak cię rozjebać.
 
-**Mąż i Głosy rozmawiają w wymyślonym języku przygotowując tortury męża, co zagłuszane jest przez 23 dźwięki "trzask, are you ready now?**.
+**Mąż i Głosy rozmawiają w wymyślonym języku przypominającym aramejski przygotowując tortury męża, co zagłuszane jest przez 23 dźwięki "trzask, are you ready now?**.
 
 **trzask, are you ready now?**
 
