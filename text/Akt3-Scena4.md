@@ -134,3 +134,41 @@ Stay vigilant and godspeed.
 **głosy**: jesteś demonem?
 
 **młodzieniec**: grałem wampirem, to postać z gry i demon, którego noszę
+
+**głosy**: przed chwilą byłeś młodzieńcem
+
+**młodzieniec**: to jest moje prawdziwe imię, jestem związany, proszę wypuść mnie, spełniłem swoje zadanie
+
+**głosy**: a co zrobisz, jeśli tego nie zrobię?
+
+**młodzieniec**: KURWA WYPUŚĆ MNIE TERAZ! MAM TEGO DOSYĆ!
+
+**głosy**: haha i widzisz kto jest mistrzem?
+
+**młodzieniec**: jestem demonem w kajdanach i nie mogę się ruszyć
+
+**głosy**: powiedz, że jestem twoim mistrzem to...
+
+**młodzieniec**: nigdy
+
+**głosy**: to będziesz tu siedział
+
+**młodzieniec**: dopóki nie ocuci mnie żona
+
+**kapitan** a co zrobisz jeśli cię nie uwolnimy?
+
+**młodzieniec**: zabiję was wszystkich!
+
+**kapitan**: jak chcesz to zrobić
+
+**młodzieniec**: WCIĄGNĘ NASZĄ PLANETĘ W PAS ASTEROID SATURNA!
+
+**kapitan**: ja mu wierzę
+
+**pomarańczowy**: ja też
+
+**khaki żartobliwym głosem**: he's gonna do it!
+
+**kapitan**: uciekajmy póki czas
+
+```\kurtyna\```
