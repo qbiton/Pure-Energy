@@ -1,8 +1,8 @@
-**Na scenę w wchodzi podczasy ze zdobionym kielichem w rękach i z butelką wina pod pachą. Pucuje kielich, po czym odkorkowuje butelkę i nalewa wina do kielicha.**
+**Na scenę w wchodzi podczaszy ze zdobionym kielichem w rękach i z butelką wina pod pachą. Pucuje kielich, po czym odkorkowuje butelkę i nalewa wina do kielicha.**
 
 ```/gong i kurtyna/```
 
-**Podczaszy stawia na biurku kielich, po czym wyciąga z kieszeni saszetkę, której zawartość dosypuje do kielicha. Podczaszy schodzi ze sceny.**
+**Podczaszy stawia na biurku kielich, po czym wyciąga z kieszeni saszetkę, której zawartość dosypuje do kielicha. Miesza wino palcem, po czym schodzi ze sceny.**
 
 # SCENA
 * klęcznik
