@@ -175,4 +175,5 @@ Po bieżni idzie Mąż ubrany w białą koszulkę z napisem "GOOD THINGS TAKE TI
 
 ```KURTYNA```
 
-**Podczas gdy ludzie się zbierają leci utwór Stalagmit - For Your Mind.**
+**Podczas ukłonów leci utwór Stalagmit - For Your Mind.**
+https://youtu.be/tG35vhm_oCU?si=R4dgspajFSP5pO7l

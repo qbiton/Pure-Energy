@@ -1,4 +1,5 @@
 **Podczas gdy ludzie się rozsiadają leci utwór Stalagmit - 23 Steps.**
+https://youtu.be/Qz_MU0pWUd4?si=7mYv0LzX9jTpmert
 
 W bikini i na obcasach wychodzi zza kulis przed kurtynę zajebista laska, która niczym w meczu bokserskim niesie tabliczkę z napisem AKT 1 SCENA 1. Robi na środku pirueta i wychodzi za kulisy w drugą stronę.
 
