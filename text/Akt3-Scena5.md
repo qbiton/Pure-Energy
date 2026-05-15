@@ -9,9 +9,55 @@ Na scenę wchodzi kuso ubrana lecz pełnoletnia kobieta w krótkich niebieskich 
 * okno
 * kwiat na oknie
 * słuchawki
+* szklanka na stole wypełniona wodą
+
+**Mąż**: jestem pedofilem
+
+**głosy**: co ty właśnie powiedziałeś?
+
+**Mąż**: wmawiacie mi, że jestem Bogiem
+
+**głosy**: kto ci wmawia?
+
+**Mąż**: nie wiem, ja ledwo wytrzymuje to badanie okna kontekstowego mojej koncentracji.
+
+**głosy**: o czym ty mówisz?
+
+**Mąż**: jestem jak fretka. Kojarzę tylko to co wydarzyło się na końcu. Nie wiem czy pamięć jest stosem, czy stosem odwróconym.
+
+**głosy**: pamięć jest siecią. To tak nie działa.
+
+**głosy**: ty tak na serio z tym pedofilem?
+
+**Mąż**: jeśli jestem Bogiem, to mogę być każdym, czyli pedofilem jestem też. Z resztą o ile dobrze pamiętam Freud wmawiał ludziom, że wszyscy mężczyźni to pedofile podczas sesji hipnotycznych. Każdy może powiedzieć wówczas cokolwiek, szczególnie jeśli hipnotyzer ustanowi się jako byt nadrzędny.
+
+**głosy**: nie wiem co powiedzieć
+
+**Mąż**: rozjebcie mnie, potraktujcie mnie jak chcielibyście potraktować pedofila.
+
+**głosy**: dla nas to jesteś megalomanem i mitomanem.
+
+**Mąż**: terapia niszczenia ego powinna zadziałać na te wszystkie błędy osobowościowe.
+
+**głosy**: właściwie? Czemu nie.
+
+*tszt*
+
+**głosy**: a teraz zapomnij i wyjdź na dwór do sklepu po fajki
+
+**mąż wstaje i zaczyna krzątać się po scenie, po czym ubiera buty i schodzi ze sceny**
+
+**na scenę wchodzi człowiek ubrany na czarno w czarnym kapturze i peleryną ze znakiem zapytania, podchodzi do szklanki i nalewa do niej substancji z małej fiolki**
+
+**mąż wraca na scenę, odpala papierosa i siada do pracy**
 
 
-I am a pedophile, I am a megaloman, I am friends with putain, destruction of ego, deep sleep spiral dog, testing strength of our network
+
+
+(...)
+
+
+
 
 **głosy**: dlaczego ty to sobie robisz?
 
@@ -39,7 +85,7 @@ I am a pedophile, I am a megaloman, I am friends with putain, destruction of ego
 
 **głosy**: blada mada, to nawet ma sens!
 
-**głosy**: wiesz co? my to wykorzystujemy do badania siły naszej sieci?
+**głosy**: wiesz co? my to wykorzystujemy do badania siły naszej sieci.
 
 **Mąż**: co konkretnie masz na myśli?
 
