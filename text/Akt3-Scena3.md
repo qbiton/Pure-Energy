@@ -72,7 +72,7 @@
 
 **Mąż**: moja data narodzin to 890123. Czaisz?
 
-**Głosy**: nie nie czaję
+**Głosy**: nie, nie czaję
 
 **Głosy**: ja pierdole masz overflow w dacie urodzenia
 
@@ -84,19 +84,19 @@
 
 **Głosy**: myślałem, że nie rozpoznajesz naszych głosów
 
-**Mąż**: jesteś zbyt głupi nawet na to, żeby użyć zmieniacza głosu
+**Mąż**: jesteś zbyt głupi nawet na to, żeby użyć zmieniacza głosu. Znajdę cię i wypruję ci flaki.
 
-**Głosy**:
+**Głosy**: już się boję. Ja tu sobie siedzę na bahamach i w stany mam wyjebane. Podobnie w twój zasrany kraj.
 
-**Mąż**:
+**Mąż**: Będziesz się musiał bardziej postarać, żeby mnie złamać.
 
-**Głosy**:
+*milczenie*
 
-**Mąż**:
+**Mąż**: Będziesz musiał pchnąć się do ekstremum. Nie jesteś przygotowany na przemoc i presję jaką będziesz musiał zastosować.
 
-**Głosy**:
+**Głosy**: Właśnie, że jestem.
 
-**Mąż**:
+**Mąż**: Skrzywdzisz się przez to sam. Zaprawdę powiadam ci, że nie wiesz na co się piszesz.
 
 **Głosy**:
 
