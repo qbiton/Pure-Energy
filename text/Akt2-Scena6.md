@@ -10,7 +10,7 @@
 
 **Obok kukieł stoi metroseksualny menadżer**
 
-**Konferansjer**: Kandydat numer 1 to Global Twoja Stara Menadżer! Świetnie gra w bierki i lubi ruchać się na pieska!
+**Konferansjer**: Przedstawiam tę o to szanowną bandę decydentów! Kandydat numer 1 to Global Twoja Stara Menadżer! Świetnie gra w bierki i lubi ruchać się na pieska!
 
 **Konferansjer**: Kandydat numer 2 to Skorumpowany Sprzedawca Kłamstw! Jego charyzma nie zna granic i doprowadził do zadłużenia na tylko sto milionow!
 

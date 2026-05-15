@@ -1,3 +1,0 @@
-akt 2 scena 7 cóż to - pusto?
-
-rząd kukieł
