@@ -1,0 +1,1 @@
+![Okładka](../images/Pure_Energy-act1-stage-version0.3.jpg)
