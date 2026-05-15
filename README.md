@@ -1,12 +1,15 @@
-Pure Energy is a comedy drama for theatres from the original author of "Saint Fucker" and "Painting Mother Nature".
+Pure Energy is a comedy drama for theatres from the original author of "Saint Fucker and Painting Mother Nature". It's autobiographical in nature. These are memories of Author (me) from the time of being petted and tortured. I agreed to it while having a split identity. I have a tendency to use what I have to do sound things and bring benefit to those around me.
 
-The play is written in Polish as I (Jakub Jan Zieliński - Author) am Polish myself. Feel free to fork and translate or do whatever you like with the text and pictures of paintings I am posting to depict what is happening in the play. The more the merrier.
+As much as I wanted to stay truthful to what I remember, some of the scenes are not in order. The timeline may be a little different - I went through a lot of pain through 2019 up until 2024. Some of the scenes of hypnotic chatter have been completely omitted - I remember them and don't want to talk about them, because I want to forget. Besides, it could pose a serious threat to sanity of those who were affected by the whole situation.
 
-I am also going to share this in on my webpage https:/qbiton.net/ so feel free to visit from time to time. I also write a blog there, so come on over and give me some traffic.
+I do not want to cause harm to thouse who hurt me, nor those who helped. My reason for writing this play is simple - so you stay vigilant when you abuse substances, especially while working with electronic tools. We live in the times of AI. Don't lose your free will. Don't get yourself dominated by that which is here to help.
 
-BTW the original "Saint Fucker" and "Paining of Mother Nature" RELEASE 1 is located here: https://drive.google.com/file/d/1tc0CsWRqKGBTixM_hSBi4MQwnV3lvxTT/view?usp=sharing
+As you may know every tool can be used to do good as well as for evil.
 
-Stay compliant and share your related work in repos online.
+This time we turned something evil into something good.
 
-P.S.
-I am also planning on writing a novel called "The journey through 27 dimensions" but that one will be sold for cold hard cash.
+This is my message,
+Jakub Jan Jordan Zieliński
+Self Proclaimed Professor of Applied Martyrology
+
+End of Transmission.
