@@ -112,4 +112,40 @@
 
 **Mąż**: urodziłem się po to, żeby pomagać, ale nie wiem czy robimy to, co powinniśmy.
 
+**Głosy Męskie**: odpocznij. idź teraz spać. obudzisz się za 30 minut i nie będziesz nic pamiętał.
+
+**Mąż zaczyna chrapać**
+
+*dzwonek do drzwi*
+
+**Mąż budzi się i wychodzi za kulisy**
+
+**Żona z muppetem i mężem wchodzą na scenę**
+
+**Żona**: zapomniałam kluczy
+
+**Mąż**: nie ma sprawy. Słuchaj...
+
+**Żona**: zrobiłes obiad?
+
+**Mąż**: nie, zapomniałem. Słuchaj...
+
+**Żona**: muszę jechać do rodziny, bo mają problem.
+
+**Mąż**: ja też mam problem. Możesz mnie przez chwile posłuchać?
+
+**Żona**: ale tu jest syf. Sprzątnij chociaż ten popiół z biurka.
+
+**Mąż**: dzieje się ze mną coś złego. Nie wiem co mi jest. Prosze cię wyjedźmy na wieś.
+
+**Żona**: nie możemy, ja nie mogę pracować zdalnie - muszę iść do pracy.
+
+**Mąż**: Słuchaj. Ze mną dzieje się coś naprawde złego. Weź wolne. Jedźmy do twojej rodziny na wieś. Pomogę przy krowach.
+
+**Żona**: nie mogę w firmie jest za dużo do zrobienia. Prezes mnie nie puści.
+
+**Mąż**: kupiłem ci przecież laptopa żebyś mogła pracować zdalnie. Prosze cię wyjedźmy. Ja tu dostaję w głowę. Nie wiem co mi jest. Dzieje się ze mną coś bardzo złego.
+
+**Żona**: wymyślasz.
+
 /```kurtyna```/
