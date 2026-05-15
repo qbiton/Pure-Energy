@@ -46,6 +46,10 @@ na siedzeniach w tetrze ułożone przed przyjściem widzów leżą wąskie paski
 * nie wiem czy wiesz ale cały twój dom jest na podsłuchu
 * i ty masz się za profesjonalistę?
 * i ty masz się za biseksualnego? kogoś tak heteroseksualnego nie widziałem
+* dlatego to musiałeś być ty
+* dlatego cię wybraliśmy
+* tylko ty mogłeś tego dokonać
+* tylko ty mogłeś to wytrzymać
 
 itp. dużo obelg, trochę słodzenia i inne komentarze
 
