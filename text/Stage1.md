@@ -1,1 +1,1 @@
-![Okładka](../images/act1-stage-version0.3.jpg)
+![Stage1](../images/act1-stage-version0.3.jpg)
