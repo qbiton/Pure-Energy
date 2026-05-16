@@ -15,3 +15,11 @@ Self-Proclaimed Professor of Applied Martyrology
 
 End of Transmission.
 ```
+
+```
+Begin of Transmission
+I encourage to actors, scenographers and directors to focus on Act 3. The GNU GPL license which is assigned to this play means AFAIK that you may change and write anything you seem suitable to make the play better. I am leaving this as creative space for anyone willing to adopt my script for stage.
+
+End of Transmission,
+Author
+```
