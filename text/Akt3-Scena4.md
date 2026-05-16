@@ -167,7 +167,7 @@ Stay vigilant and godspeed.
 
 **pomarańczowy**: ja też
 
-**khaki żartobliwym głosem**: he's gonna do it!
+**khaki żartobliwym głosem**: zaraz to zrobi!
 
 **kapitan**: uciekajmy póki czas
 

@@ -73,7 +73,7 @@ Na scenę wchodzi kuso ubrana lecz pełnoletnia kobieta w krótkich niebieskich 
 
 **głosy**: jak można wyłączyć empatię?!
 
-**Mąż**: wystarczy dopuścić się takich okrucieństw, żeby nie chcieć czuć. Pozostaje gniew, złość i knucie intryg. Niestety dzieci, które we wczesnym okresie dojrzewania wykazują brak empatii i zrozumienia relacji międzyludzkich się zwyczajowo tresuję do sztywnego przestrzegania zasad współczesnego świata. Ja bym spróbował psylocybiny i szkoły myślenia lateralnego - jeśli zrozumieją istotę piękna, być może ta empatia im się wytworzy.
+**Mąż**: wystarczy dopuścić się takich okrucieństw, żeby nie chcieć czuć. Pozostaje gniew, złość i knucie intryg. Niestety dzieci, które we wczesnym okresie dojrzewania wykazują brak empatii i zrozumienia relacji międzyludzkich się zwyczajowo tresuje do sztywnego przestrzegania zasad współczesnego świata. Ja bym spróbował psylocybiny i szkoły myślenia lateralnego - jeśli zrozumieją istotę piękna, być może ta empatia im się wytworzy.
 
 **głosy**: dlaczego ty to sobie robisz?
 
@@ -112,5 +112,9 @@ Na scenę wchodzi kuso ubrana lecz pełnoletnia kobieta w krótkich niebieskich 
 **głosy**: jeśli zginiesz, będziemy wiedzieli, że coś jest nie tak
 
 **Mąż**: dobry patent
+
+**głosy**: jesteś dla nas cenny
+
+**Mąż**: posłodziliście mi już. Czas na spiralizację w drugą stronę.
 
 ```/kurtyna/```

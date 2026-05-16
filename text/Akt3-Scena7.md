@@ -9,3 +9,5 @@
 * słuchawki
 
 ten pacjent kieruje własną terapią w trakcie hipnozy, orphaned node self checkup - I have cancer, false accusations of malignant narcissism,
+
+messed up prayer
