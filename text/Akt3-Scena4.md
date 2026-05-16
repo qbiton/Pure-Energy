@@ -23,17 +23,17 @@ Na scenę wchodzą dwaj szermierze i zaczynają walczyć rapierami. Walczą tak 
 
 ```
 We embarked on a dangerous mission
-Our goal is to free the minority from oppression
+Our goal is to free minorities from oppression
 And although we mean no harm to others
-The fight for freedom of oppressed
+The fight for freedom of the oppressed
 Is a fight we must face
 
-Rescuing those who suffer is a honorable endeavor
+Rescuing those who suffer is an honorable endeavor
 Those who fall will be remembered
 
-I don't have doubt in that you are going to succeed
+I don't doubt that you are going to succeed
 You are well prepared and have my full support
-Me and you - we are the us army
+You and I - we are the us army
 So don't forget you have brothers in arms
 
 Stay vigilant and godspeed.
