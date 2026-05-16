@@ -157,7 +157,7 @@
 
 **Belg**: stary waliłeś gruchę do pornografii na służbowym laptopie. Do tego do czego ty waliłeś to już naprawdę trzeba być gejem.
 
-**Mąż**: ja myślę, że wszyscy sa biseksualni, tylko tego o sobie nie wiedzą, bo się ze mna nie ruchali
+**Mąż**: ja myślę, że wszyscy sa biseksualni, tylko tego o sobie nie wiedzą, bo się ze mną nie ruchali
 
 **Belg spluwa wpadając w śmiech**: kurwa dobre podejście.
 
@@ -181,7 +181,7 @@
 
 **trzask, czy jesteś gotowe?**
 
-**trzask, czy jesteś gotowe, by przyznać, że świat potrzebuje pomocy**
+**trzask, czy jesteś gotowe, by przyznać, że świat potrzebuje pomocy?**
 
 **trzask, czy jesteś gotowe, by przyznać, że możesz się zmienić?**
 
