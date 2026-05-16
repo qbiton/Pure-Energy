@@ -57,7 +57,7 @@ Na scenę wchodzi kuso ubrana lecz pełnoletnia kobieta w krótkich niebieskich 
 
 **głosy**: powiedz mi jeszcze coś co pomoże mi cię zabić
 
-**Mąż**: jestem przyjacielem putain
+**Mąż**: jestem przyjacielem *putain*
 
 **głosy**: ja jebie, serio?
 
