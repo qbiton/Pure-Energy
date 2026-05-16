@@ -157,7 +157,7 @@
 
 **Mąż**: nie, nie ma. Żyjemy w zasiedmiogórogrodzie, gdzie ludzie myślą, że pedały to pedofile. A tak wcale nie jest. To nie jest nawet skorelowane.
 
-**głosy**: jak się nazywa twój ostatni akt? Skąd będziemy wiedzieli, że to jesteś ty?
+**głosy**: jak się nazywa twój ostatni akt? Skąd będziemy wiedzieli, że to jesteś ty? Nadajmy temu jakiś sens.
 
 **Mąż**: hmm, to będzie Projekt Houdini
 
