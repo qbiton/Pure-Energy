@@ -79,7 +79,11 @@ Na scenę wchodzi kuso ubrana lecz pełnoletnia kobieta w krótkich niebieskich 
 
 **głosy**: dlaczego ty to sobie robisz?
 
-**Mąż**: a o tupolevie słyszałaś?
+**Mąż**: jestem bliski samobójstwa. Ludzie, którzy chcą przejść przez tę granicę często opowiadają o sobie to co najgorsze, żeby nie pozostawić sobie drogi odwrotu.
+
+**głosy**: znowu robisz z siebie ofiarę
+
+**Mąż**: bajdełej, o tupolevie słyszałaś?
 
 **głosy**: jakim tupolevie?
 
