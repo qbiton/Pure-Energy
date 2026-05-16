@@ -51,6 +51,18 @@
 
 **Mąż**: jestem gotowy umrzeć za to w co wierzę.
 
+**głosy**: skąd będziemy wiedzieli co u ciebie słychać?
+
+**Mąż**: zamorduję wszystkich waszych prezydentów
+
+**głosy**: ty tak na serio?
+
+**Mąż**: tak, serio, jestem terrorystą miłości
+
+**głosy**: obawiam się, że potrzebujemy więcej
+
+**Mąż**: więc zróbcie większy call
+
 **trzask, are you ready now?**
 
 **głosy**: Our Father, who art in heaven
