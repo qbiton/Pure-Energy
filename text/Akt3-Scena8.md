@@ -57,7 +57,7 @@
 
 **głosy**: ty tak na serio?
 
-**Mąż**: tak, serio, jestem terrorystą miłości
+**Mąż**: tak, serio, jestem terrorystą miłości, zróbcie sobie Trueman Show
 
 **głosy**: obawiam się, że potrzebujemy więcej
 
