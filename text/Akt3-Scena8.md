@@ -1,4 +1,4 @@
-```/gong i kurtyna/```
+```/kurtyna/```
 
 # SCENA
 * klęcznik
@@ -97,7 +97,7 @@
 
 **głosy**: Co takiego szefie?
 
-**głosy**: Mam ochote zastrzelić tego skurwysyna. Jest trujący.
+**głosy**: Mam ochotę zastrzelić tego skurwysyna. Jest trujący.
 
 **Mąż**: Tak, wiem. Jesteście w strefie zagrożonej napadami. USA. Co za dziwny kraj.
 
@@ -137,15 +137,66 @@
 
 **Mąż**: nie, nie ma. Żyjemy w zasiedmiogórogrodzie, gdzie ludzie myślą, że pedały to pedofile. A tak wcale nie jest. To nie jest nawet skorelowane.
 
-**głosy**: jak się nazywa twój ostatni akt? Skąd będziemy wiedzieli, że to jestes ty?
+**głosy**: jak się nazywa twój ostatni akt? Skąd będziemy wiedzieli, że to jesteś ty?
 
-**Mąż**: hmm, nazwijmy to będzie Projekt Houdini
+**Mąż**: hmm, to będzie Projekt Houdini
 
 **trzask, are you ready now?**
 
+**głosy**: jakim to manipulantem trzeba być, żeby być gejem i żyć z żoną, której się nie kocha?!
 
-Belgian Ass
+**Mąż**: to ty twierdzisz, że jej nie kocham
 
-why is it so hard for you to say that you are gay?
+**Belg**: po prostu powiedz o sobie, że jesteś gejem
 
-you can work with us
+**Mąż**: nie, nie powiem. Nagracie mnie a potem będę szkalowany.
+
+**Belg**: po prostu to powiedz! To nie boli. Zobacz. Jestem gejem. Bolało? Nie, nie bolało.
+
+**Mąż**: nie powiem
+
+**Belg**: stary waliłeś gruchę do pornografii na służbowym laptopie. Do tego do czego ty waliłeś to już naprawdę trzeba być gejem.
+
+**Mąż**: ja myślę, że wszyscy sa biseksualni, tylko tego o sobie nie wiedzą, bo się ze mna nie ruchali
+
+**Belg spluwa wpadając w śmiech**: kurwa dobre podejście.
+
+**menadżerka**: nie wierzę... własnie dostałam info od zarządcy, że w proteście o inwigilację młodzi inżynierowie siedzą na golasa przed swoimi lapkami i walą gruchę.
+
+**Belg**: ja pierdolę, Jakub - patrz - tu masz mój wypięty anus prosto do kamery. Chcesz go?
+
+**Mąż**: właściwie... skoro jestem biseksualny to jestem też gejem. Jestem gejem.
+
+**Belg**: możesz z nami pracować.
+
+**trzask, are you ready now?**
+
+**trzask, czy jesteś gotowe?**
+
+**trzask, czy jesteś gotowe?**
+
+**trzask, czy jesteś gotowe?**
+
+**trzask, czy jesteś gotowe?**
+
+**trzask, czy jesteś gotowe?**
+
+**trzask, czy jesteś gotowe, by przyznać, że świat potrzebuje pomocy**
+
+**trzask, czy jesteś gotowe, by przyznać, że możesz się zmienić?**
+
+**trzask, czy jesteś gotowe, by spojrzeć w lustro i dostrzec siebie?**
+
+**trzask, czy jesteś gotowe, by pomóc mniejszościom w znalezieniu ciepła?**
+
+**trzask, czy jesteś gotowe, by poświęcić swój czas na ratowanie ludzi?**
+
+**trzask, czy jesteś gotowe, by zanurzyć się w matń własnego jestestwa?**
+
+**trzask, czy jesteś gotowe, by zmieniać świat?**
+
+**trzask, czy jesteś gotowe, by zmieniać świat?**
+
+**trzask, czy jesteś gotowe, by zmieniać świat?**
+
+```/kurtyna/```

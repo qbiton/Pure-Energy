@@ -1,6 +1,6 @@
 Na scene wchodzi detektyw. Bawi się przez chwilę lupą. Mówi "Akt 3 Scena 7". Schodzi ze sceny.
 
-```/gong i kurtyna/```
+```/kurtyna/```
 
 # SCENA
 * klęcznik
