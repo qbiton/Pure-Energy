@@ -59,7 +59,7 @@
 
 **Mąż**: tak, serio, jestem terrorystą miłości, zróbcie sobie Trueman Show
 
-**głosy**: obawiam się, że potrzebujemy więcej
+**głosy**: potrzebujemy więcej niż to i twoją zgodę
 
 **Mąż**: więc zróbcie większy call
 
