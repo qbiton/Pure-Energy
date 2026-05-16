@@ -38,7 +38,7 @@ Na scene wchodzi detektyw. Bawi się przez chwilę lupą. Mówi "Akt 3 Scena 7".
 
 **głosy**: to nie jest prawda. Mówiłeś, że za młodu byłeś uderzany, opluwany i wyśmiewany.
 
-**Mąż**: ludzie, którzy mi to robili byli w ten sposób wychowywani. Mścili się na mnie za to, że nauka przychodziła mi z łatwością. Szyderczo nazywali mnie Jezusem, gdy przyjmowałem ciosy, bo byłem inny - nosiłem włosy i kostkę z naszywkami. Słuchałem muzyki. Raz zadzwoniłem do brata, żeby przyszedł po mnie do szkoły, bo grozili mi, że mnie zabiją jeśli wyjdę ze szkoły. Myślę, że coś jest ze mną nie tak. Powtarzam jakiś błąd.
+**Mąż**: ludzie, którzy mi to robili byli w ten sposób wychowywani. Mścili się na mnie za to, że nauka przychodziła mi z łatwością. Szyderczo nazywali mnie Jezusem, gdy przyjmowałem ciosy, bo byłem inny - nosiłem długie włosy i kostkę z naszywkami. Słuchałem muzyki. Raz zadzwoniłem do brata, żeby przyszedł po mnie do szkoły, bo grozili mi, że mnie zabiją jeśli wyjdę ze szkoły. Myślę, że coś jest ze mną nie tak. Powtarzam jakiś błąd.
 
 **głosy**: myślimy, że chodzi o twoją żonę. Nazwałeś ja czarną dziurą na radość.
 
@@ -57,6 +57,8 @@ Na scene wchodzi detektyw. Bawi się przez chwilę lupą. Mówi "Akt 3 Scena 7".
 **Mąż**: moją nagrodą jest to, że przeżyję. Chciałbym się zakochać.
 
 **głosy**: chcielibyśmy ci zapłacić.
+
+**Mąż**: nie mogę przyjąć za to zapłaty, bo to co robicie jest nieetyczne. Poza tym pieniądze tylko komplikują - zostałby papierowy ślad. Ponadto mógłbym być posądzony o zdradę stanu.
 
 **głosy**: nie wierzę, że to mówię, ale ten pacjent zdaje się kierować swoją terapią.
 
