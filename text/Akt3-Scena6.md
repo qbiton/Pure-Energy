@@ -1,3 +1,5 @@
+Na scenę wchodzi człowiek w czarnym stroju i czarnym kapturze. Zdejmuje kaptur i mówi: "przemilczmy minutę za poległych". Stoi przez minutę na scenę, po czym schodzi ze sceny.
+
 ```/gong i kurtyna/```
 
 # SCENA
@@ -8,8 +10,7 @@
 * kwiat na oknie
 * słuchawki
 
-
-
+# AKCJA
 
 **trzask, are you ready now?**
 
