@@ -75,8 +75,6 @@ Na scenę wchodzi kuso ubrana lecz pełnoletnia kobieta w krótkich niebieskich 
 
 **Mąż**: wystarczy dopuścić się takich okrucieństw, żeby nie chcieć czuć. Pozostaje gniew, złość i knucie intryg. Niestety dzieci, które we wczesnym okresie dojrzewania wykazują brak empatii i zrozumienia relacji międzyludzkich się zwyczajowo tresuję do sztywnego przestrzegania zasad współczesnego świata. Ja bym spróbował psylocybiny i szkoły myślenia lateralnego - jeśli zrozumieją istotę piękna, być może ta empatia im się wytworzy.
 
-(...)
-
 **głosy**: dlaczego ty to sobie robisz?
 
 **Mąż**: jestem bliski samobójstwa. Ludzie, którzy chcą przejść przez tę granicę często opowiadają o sobie to co najgorsze, żeby nie pozostawić sobie drogi odwrotu.
