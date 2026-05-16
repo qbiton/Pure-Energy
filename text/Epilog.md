@@ -50,6 +50,7 @@ na siedzeniach w tetrze ułożone przed przyjściem widzów leżą wąskie paski
 * dlatego cię wybraliśmy
 * tylko ty mogłeś tego dokonać
 * tylko ty mogłeś to wytrzymać
+* jeśli ktoś ci masteruje żonę, to może mógłbyś coś z tym zrobić?
 
 itp. dużo obelg, trochę słodzenia i inne komentarze
 
