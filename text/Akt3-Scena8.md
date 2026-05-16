@@ -197,10 +197,6 @@
 
 **trzask, czy jesteś gotowe?**
 
-**trzask, czy jesteś gotowe?**
-
-**trzask, czy jesteś gotowe?**
-
 **trzask, czy jesteś gotowe, by przyznać, że świat potrzebuje pomocy?**
 
 **trzask, czy jesteś gotowe, by przyznać, że możesz się zmienić?**
