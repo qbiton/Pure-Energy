@@ -43,6 +43,14 @@
 
 **Mąż**: super, zaznaczmy wszystkie kratki.
 
+**głos żrący jabłko**: jesteś pewien?
+
+**Mąż**: tak, jestem ciekaw co ludzie myślą o tożsamości
+
+**głosy**: Jakub, obawiam się, że poślą cię za to do piachu
+
+**Mąż**: jestem gotowy umrzeć za to w co wierzę.
+
 **trzask, are you ready now?**
 
 **głosy**: Our Father, who art in heaven
