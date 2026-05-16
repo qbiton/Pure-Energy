@@ -49,7 +49,7 @@ Na scenę wchodzi kuso ubrana lecz pełnoletnia kobieta w krótkich niebieskich 
 
 **na scenę wchodzi człowiek ubrany na czarno w czarnym kapturze i peleryną ze znakiem zapytania, podchodzi do szklanki i nalewa do niej substancji z małej fiolki**
 
-**mąż wraca na scenę, odpala papierosa i siada do pracy zakładając słuchawki**
+**mąż wraca na scenę, odpala papierosa, pije ze szklanki i siada do pracy zakładając słuchawki**
 
 *tszt*
 
