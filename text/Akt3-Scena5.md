@@ -49,15 +49,33 @@ Na scenę wchodzi kuso ubrana lecz pełnoletnia kobieta w krótkich niebieskich 
 
 **na scenę wchodzi człowiek ubrany na czarno w czarnym kapturze i peleryną ze znakiem zapytania, podchodzi do szklanki i nalewa do niej substancji z małej fiolki**
 
-**mąż wraca na scenę, odpala papierosa i siada do pracy**
+**mąż wraca na scenę, odpala papierosa i siada do pracy zakładając słuchawki**
 
+*tszt*
 
+**mąż się wyłącza**
 
+**głosy**: powiedz mi jeszcze coś co pomoże mi cię zabić
+
+**Mąż**: jestem przyjacielem putain
+
+**głosy**: ja jebie, serio?
+
+**Mąż**: tak, my się rozumiemy
+
+**głosy**: to znaczy?
+
+**Mąż**: to znaczy, że bycie psychopatą nie jest takie trudne. Wystarczy wyłączyć empatię.
+
+**głosy**: ty empatii nie masz wcale
+
+**Mąż**: to już był bełkot, ja jestem empatą. Telepatię przewodzi empatia.
+
+**głosy**: jak można wyłączyć empatię?!
+
+**Mąż**: wystarczy dopuścić się takich okrucieństw, żeby nie chcieć czuć. Pozostaje gniew, złość i knucie intryg. Niestety dzieci, które we wczesnym okresie dojrzewania wykazują brak empatii i zrozumienia relacji międzyludzkich się zwyczajowo tresuję do sztywnego przestrzegania zasad współczesnego świata. Ja bym spróbował psylocybiny i szkoły myślenia lateralnego - jeśli zrozumieją istotę piękna, być może ta empatia im się wytworzy.
 
 (...)
-
-
-
 
 **głosy**: dlaczego ty to sobie robisz?
 
