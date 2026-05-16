@@ -113,7 +113,7 @@
 
 **Mąż**: I'm not your fellow friend.
 
-**głosy**: Im not your firend... wiesz co? to straciło swój urok. Co sugerujesz.
+**głosy**: I'm not your friend... wiesz co? to straciło swój urok. Co sugerujesz?
 
 **Mąż**: wydrukujcie moje zdjęcie i zabierzcie młodziaków na dwór, żeby mogli do mnie postrzelać.
 
@@ -122,6 +122,27 @@
 **Mąż**: rób jak uważasz
 
 **trzask, are you ready now?**
+
+**głosy**: ten ziomek potrzebuje misji
+
+**głosy**: dlaczego tak myślisz?
+
+**głosy**: jest mesjanistą
+
+**głosy**: Jakub jaki jest twój cel końcowy?
+
+**Mąż**: umożliwić parom homoseksualnym adoptowanie dzieci
+
+**głosy**: to tego jeszcze u was nie ma?
+
+**Mąż**: nie, nie ma. Żyjemy w zasiedmiogórogrodzie, gdzie ludzie myślą, że pedały to pedofile. A tak wcale nie jest. To nie jest nawet skorelowane.
+
+**głosy**: jak się nazywa twój ostatni akt? Skąd będziemy wiedzieli, że to jestes ty?
+
+**Mąż**: hmm, nazwijmy to będzie Projekt Houdini
+
+**trzask, are you ready now?**
+
 
 Belgian Ass
 
