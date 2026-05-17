@@ -53,7 +53,7 @@
 
 **Żona wchodzi na scenę**: Chciałam ci przypomnieć, że jutro masz onkologa.
 
-**Mąż**: spoko, dam radę, zobacz. Włączę kamerę. **Mąż kładzie na łóżku telefon, po czym podnosi wysoko nad głowę muppeta. Potem złamany krzyczy** ała! moje plecy! **i łamiąc się kładzie muppeta na podłodze, po czym kładzie się sam** jak nie urok to sraczka! poszły mi plecy!
+**Mąż**: spoko, dam radę, zobacz. Włączę kamerę. **Mąż kładzie na łóżku telefon, po czym podnosi wysoko nad głowę muppeta. Potem złamany krzyczy** ała! moje plecy! **i łamiąc się kładzie muppeta na podłodze, po czym kładzie się sam** Diabli nadali! Jak nie urok to sraczka! poszły mi plecy!
 
 **Żona** co? co ci jest?
 
