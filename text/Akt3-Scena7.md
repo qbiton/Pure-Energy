@@ -44,9 +44,9 @@ Na scene wchodzi detektyw. Bawi się przez chwilę lupą. Mówi "Akt 3 Scena 7".
 
 **Mąż**: tak, szukam u niej w oczach aprobaty, ale w zamian dostaję tylko oczekiwania. Czy to żałosne?
 
-**głosy**: nie oceniamy. Myślę, że pod koniec tej historii czeka cię rozwód.
+**głosy**: nie oceniamy. Myślę, że pod koniec tej historii czeka cię rozwód. Albo walniesz samobója.
 
-**Mąż**: nie mogę się rozwieść, bo mamy dzieci.
+**Mąż**: nie mogę się rozwieść, bo mamy dzieci. Mam po co żyć, bo mam dzieci, więc nie mogę się zabić. Przerąbane. I weź tu żyj.
 
 **głosy**: jeśli jesteś nieszczęśliwy i jej nie kochasz, to może powinieneś odejść dla własnego dobra
 

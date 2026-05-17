@@ -181,7 +181,7 @@
 
 **Belg spluwa wpadając w śmiech**: kurwa dobre podejście.
 
-**menadżerka**: nie wierzę... własnie dostałam info od zarządcy, że w proteście o inwigilację młodzi inżynierowie siedzą na golasa przed swoimi lapkami i walą gruchę.
+**menadżerka**: nie wierzę... własnie dostałam info od zarządcy, że w proteście o inwigilację młodzi inżynierowie siedzą na golasa przed swoimi lapkami i walą gruchę. Nazywają to akcja masturbacja.
 
 **Belg**: ja pierdolę, Jakub - patrz - tu masz mój wypięty anus prosto do kamery. Chcesz go?
 
