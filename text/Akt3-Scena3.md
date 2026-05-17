@@ -74,7 +74,7 @@
 
 **Głosy**: nie, nie czaję
 
-**Głosy**: ja pierdolę masz overflow w dacie urodzenia
+**Głosy**: ja cię kręcę masz overflow w dacie urodzenia
 
 **Mąż**: w rzeczy samej. umiem liczyć. ignorancie z USA wiesz co się wydarzyło w 1989?
 
