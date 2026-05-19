@@ -193,3 +193,9 @@
 **CIA1**: to jesteśmy już w symulacji, czy jeszcze nie?
 
 **Mąż**: ten świat jest prawdziwy. gwarantuję
+
+**CIA1**: skąd wiesz?
+
+**Mąż**: bolał cię kiedyś ząb?
+
+```/kurtyna/```
