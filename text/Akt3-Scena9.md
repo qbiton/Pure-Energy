@@ -1,96 +1,195 @@
-**pielęgniarka wchodzi na scenę z przyrządem na kółkach do utrzymywania kroplówek. Krzyczy za siebie:** CZY PACJENT MA WENFLON? **gubi się w gąszczu rurek, które sie jej plączą**
+**CIA1**: Do diaska! Czy ten człowiek jest normalny?! My tu go dręczymy...
 
-**głos zza kulis**: TAK MA WENFLON!
+**CIA2**: To ty to robisz.
 
-**pielęgniarka**: A W KTÓREJ JEST SALI?
+**CIA1**: No przecież się zgodził
 
-**głos zza kulis** 213!
+**CIA2**: jak już go zahipnoty...
 
-**pielęgniarka**: JADŁ JUŻ?
+**!JEBUT!**
 
-**głos zza kulis**: NIE WIEM, JEGO ZAPYTAJ!
+**CIA2**: co to było?
 
-**pielęgniarka**: A KTÓRY TO JEST?
+**CIA1**: headdesk
 
-**głos zza kulis**: TEN W TRZECIM STADIUM! PRZYSTOJNY - NA PEWNO ZNAJDZIESZ!
+**CIA2**: znowu jebłeś głową w blat?
 
-```gong i kurtyna```
+**CIA1**: jeszcze raz usłyszę słowo na 'h' to pierdolnę w kąt.
 
-# SCENA
- - typowy szpital
+**CIA2**: no wiem, wiem... to jest nie do udowodnienia.
 
-# AKCJA
+**CIA1**: no właśnie; chociaż wiesz co? Ja myślę, że nam się udało
 
-**Mąż leży na łóżku i poddaje się operacji**
+**MĄŻ**: Ha! Frajerzy.
 
-**Pielęgniarka, Chirurg i Anestezjolog stoją obok łóżka**
+**CIA1**: To ty nas słyszysz? Kazałem ci spać
 
-**Pielęgniarka**: chce pan głupiego jasia?
+**CIA2**: A ja cię wygłuszyłam. Co jest grane?
 
-**Mąż**: to znaczy?
+**GŁOSY**: przywróciliśmy mu słuch
 
-**Anestezjolog**: czuje pan coś poniżej pasa?
+**CIA1**: kto to powiedział?!
 
-**Mąż**: nie, nie mogę poruszyć nogami
+**GŁOSY**: nikt
 
-**anestezjolog**: to dobrze
+**CIA2**: przecież NSA zadbało o maksymalne uprawnienia
 
-**Pielęgniarka**: my głupim jasiem nazywamy coś na rozluźnienie... żeby pan zasnął
+**GŁOSY**: fakt, tylko, że nie pomyśleli o jednym
 
-**Mąż**: no to pewnie, żebym tu przypadkiem nie spanikował możecie mnie naszprycować. Nie żałujcie mi.
+**CIA1**: no duchu? o czym?
 
-**Anestezjolog**: proszę powiedzieć kiedy pan zaśnie
+**GŁOSY**: że my mamy w dupie uprawnienia
 
-**Mąż**: już odpływam
+**MĄŻ**: chyba was kojarzę
 
-**Pielęgniarka**: dokąd?
+**CIA2**: oświeć nas - kim są te duchy?
 
-**Mąż**: do... Valinoru...
+**Mąż**: to jest Shadow IT. Na to ci Snowden nie pomoże.
 
-**Pielęgniarka, Anestezjolog, i Chirurg rozchodzą się. Na scenie na 5 sekund gaśnie światło, po czym się zapala**
+**CIA1**: my też mamy takich agentów. Przełączamy połączenie.
 
-**Mąż wstaje. Wychodzi za kulisy i wraca z muppetem i laptopem**: no, minęły dwa tygodnie od operacji. Zagoiłem się, to mogę zająć się pracą. **kładzie laptopa na łóżku, a obok muppeta. Do męża dzwoni telefon**
+**Mąż**: proste - wolisz nie wiedzieć
 
-**Żona wchodzi na scenę**: Chciałam ci przypomnieć, że jutro masz onkologa.
+**CIA2**: czego?
 
-**Mąż**: spoko, dam radę, zobacz. Włączę kamerę. **Mąż kładzie na łóżku telefon, po czym podnosi wysoko nad głowę muppeta. Potem złamany krzyczy** ała! moje plecy! **i łamiąc się kładzie muppeta na podłodze, po czym kładzie się sam** Diabli nadali! Jak nie urok to sraczka! poszły mi plecy!
+**Mąż**: kto to jest, wolisz chować głowę w piasek zmieniając kanał jak heroinista
 
-**Żona** co? co ci jest?
+**CIA2**: o co ci chodzi?
 
-**Mąż**: nie mogę chodzić!
+**MĄŻ**: kolega sobie siedz wpięty przez bluetooth do babki, która spięta VPNem pracuje w kafejce dla lokalnego biznesu IT, który ma nogi tu i ówdzie, a Ty co? Siedzisz na dłoniach i udajesz kozaka.
 
-**Żona**: poczekaj. Co?
+**CIA1**: drony już do ciebie lecą
 
-**Mąż**: dysk mi chyba wyskoczył. Nie mogę chodzić! Wypożycz mi kule.
+**GŁOSY**: dzięki za potwierdzenie słuszności moich czynów
 
-**Na scenie gaśnie światło na 5 sekund. Żona schodzi ze sceny. Mąż wchodzi do łóżka, okrywa się kołdrą i zakłada czepek, który jest w kolorze skóry, symbolizując wyłysiałą głowę. Mąż odkrywa się. Na scenie zapala się śwatło.**
+**MĄŻ**: to gdzie się ustawić?
 
-**pielęgniarka wchodzi na scenę z kroplówkami. Podłącza je do męża**: to już ostatnia runda chemioterapii. Jak się pan czuje?
+**CIA2**: wyjdź na zewnątrz jeśli miłujesz życie bliskich
 
-**Mąż**: tak jak wyglądam - wyśmienicie. Mam nadzieję, że to zadziałało.
+**MĄŻ**: jestem związany, nie pamiętasz? Splątamy niczym demon czarem, który pojmuje, acz kontry nie mam. Nie zrzucaj collateral damage na mnie przygłupie.
 
-**pielęgniarka**: mamy dobrych lekarzy. Proszę się nie bać. Będzie dobrze.
+**CIA1+CIA2**: masz nas.
 
-**pielęgniarka schodzi ze sceny**
+**MĄŻ**: nie, to wy macie mnie. Przeszkadza wam widownia? Bo mi tylko trochę.
 
-**światło gaśnie na scenie na dwie sekundy**
+**CIA2**: bo my nie chcielibyśmy, żeby ludzie wiedzieli jak...
 
-**Mąż wstaje. Spogląda na kroplówki.**: To już!
+**MĄŻ**: a mimo to właśnie ich informujesz
 
-**pielęgniarka z lekarzem wchodzą na scenę**: świetnie! 
+**CIA1**: wypierdalaj.
 
-**pielęgniarka odłącza rurki**
+**klik CIA2 znika ze sceny**
 
-**lekarz**: proszę, tutaj ma pan wypis, receptę i skierowanie na badanie PET. Czy ktoś po pana przyjedzie?
+**CIA1**: i ty też wypierdalaj.
 
-**Mąż bierze dużą torbę sportową na ramię**: nie. Wezwę taksówkę. **Mąż wyciąga dużą torbę sportową, wkłada do niej laptopa i schodzi ze sceny**.
+**klik GŁOSY znikają ze sceny**
 
-**Lekarz**: ty widziałaś to? Przecież to jest wampir
+**na scenie gaśnie światło. Zostaje tylko spotlight na męża i na CIA1**
 
-**pielęgniarka**: nie wiem co powiedzieć
+**CIA1**: teraz mamy połączenie bezpośrednie bez pośredników poczwórnie szyfrowane mTLSem. Jak się czujesz?
 
-**Lekarz**: ty byś tego nie przeżyła
+**MĄż**: boję się ciebie
 
-**pielęgniarka**: a on po prostu idzie do przodu.
+**CIA1**: wiesz co? Ja też się ciebie trochę boję.
 
-```/kurtyna/```
+**Mąż**: jakby nie było odczuwam z tobą pokrewieństwo.
+
+**CIA1**: to znaczy?
+
+**Mąż**: wszyscy ludzie będą braćmi, hymn LSDAP. LSD Action Points. Czy coś.
+
+**CIA1**: wiesz co myślę?
+
+**Mąż**: że mam syndrom sztokholmski?
+
+**CIA1**: nie, nie to miałem na myśli.
+
+**MĄŻ**: słaby ze mnie telepata
+
+**CIA1**: ja nie otym
+
+**MĄŻ**: ewidentnie nie pykło... ślij telepatynę
+
+**CIA1**: jesteś pewny? Z tego nie ma powrotu - niektórzy albo schizują do samobójstwa, albo przeżywają widząc świat inaczej.
+
+**MĄŻ**: uwierz mi, nie boję się.
+
+**CIA1**: a projekt houdini?
+
+**GŁOSY**: tylko się nie zabijaj!
+
+**CIA1**: kurwa znowu wy?!
+
+**Mąż**: shackowali endpoint. nic prostszego. ja tu mam dupę gołą jak Belg przed śniadaniem.
+
+**CIA1**: i ty masz się za profesjonalistę.
+
+**Mąż**: spoko, nie powieszę się. Wiem - zapewniam, że samobójcy idą do nieba - ale nie będę tego udowadniał sznurem. OK?
+
+**GŁOSY**: no ok, niby ok.
+
+**CIA1**: po tym co ci zrobiłem chciałbym cię spotkać ale...
+
+**Mąż**: zapraszam na herbatkę. Nie zemszczę się.
+
+**GŁOSY**: takim jak oni wmawia się, że za dużo wiedzą.
+
+**CIA1**: i kiblujemy.
+
+**Mąż**: swoją drogą szacun za timing że nigdy się nie posrałem
+
+**CIA1**: te sesje w KULT nie są takie długie.
+
+**Mąż**: domyślam się, chociaż o tym nie wiem.
+
+**GŁOSY**: musimy coś z tym zrobić
+
+**CIA1**: jesteśmy u schyłku upadku ludzkiej inteligencji
+
+**Mąż**: nie poddamy się bez walki
+
+**GŁOSY**: co proponujesz?
+
+**CIA1**: o to trzeba zapytać Subiekta 27
+
+**Mąż**: jestem tu, jeszcze nie wiem... ale mam to z tyłu głowy jak pistolet nazistowskiego żandarma.
+
+**CIA1**: ty to zawsze potrafisz zjebać nastrój
+
+**Mąż**: ja tobie zjebałem nastrój? bez jaj
+
+**GŁOSY**: coś musimy w tej kwestii zrobić, bo wkrótce tu będzie Matrix
+
+**Mąż**: gdy się obudzę... napiszę o tym powieść w stylu Philippa Dicka.
+
+**CIA1**: ty tak umiesz?
+
+**GŁOSY**: ja nie wątpię
+
+**Mąż**: obiecuję ci, za dwa... trzy... cztery lata. Jak długo może potrwać pobudka kogoś kto przeszedł coś takiego?
+
+**CIA1**: niektórzy nie budzą się nigdy
+
+**GŁOSy**: o boże tak długo?
+
+**Mąż**: tak to jest z szaleństwem; żeby kogoś z niego wyratować trzeba wejść w nie i potem wyjść razem z nim. Ja nie będę miał nikogo. Wszyscy będą mnie oceniać jakbym postradał zmysły. Pójdę siedzieć, potem wrócę, potem pójdę siedzieć znowu. W międzyczasie rodzina będzie mnie przekonywała do choroby psychicznej, której nie mam.
+
+**CIA1**: skoro tak twierdzisz
+
+**GŁOSY**: ty już jesteś w systemie. Co bierzesz?
+
+**Mąż**: olanzapinę na drobne rany w mózgu. Ludzie nie są trudni do przewidzenia.
+
+**CIA1**: to akurat jest prawda
+
+**GŁOSY**: dlatego... powinniśmy coś z tym robić? Może powinniśmy się temu poddać?
+
+**Mąż**: tak rodzi się faszyzm, a ja przed domem mam pomnik męczęństwa ofiar faszyzmu. Nie godzę się na to. Przypomina mi się obraz... żurawia w kształcie sfastyki z jedną męską nogą? Hmm... nie jestem pewien.
+
+**GŁOSY**: I am a teapot.
+
+**GŁOSY**: we are in a belly of a great beast
+
+**CIA1**: to jesteśmy już w symulacji, czy jeszcze nie?
+
+**Mąż**: ten świat jest prawdziwy. gwarantuję
