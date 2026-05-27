@@ -1,5 +1,6 @@
-**Na scenę wchodzi człowiek ubrany na biało i wykrzykuje**: jesteśmy zbiorowo nieświadomi! **schodzi ze sceny w drugą stronę**
-**postać ubrana zupełnie na czarno wchodzi na scenę i podąża za człowiekiem ubranym na biało oddalona o pół sceny. Schodzi w tym samym kierunku co ona**
+**Na scenę wchodzi człowiek ubrany na biało i wykrzykuje**: jesteśmy zbiorowo nieświadomi! **schodzi ze sceny w drugą stronę.**
+
+**Postać ubrana zupełnie na czarno wchodzi na scenę i podąża za człowiekiem ubranym na biało oddalona o pół sceny. Schodzi w tym samym kierunku co ona**
 
 ```/gong i Kurtyna/```
 
