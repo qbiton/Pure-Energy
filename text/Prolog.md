@@ -7,7 +7,7 @@
 Umeblowanie do Aktu 1 Sceny 1 jest rozstawione w kompletnym chaosie.
 
 # AKCJA
-**Pomiędzy meblami chodzą aktorzy biorący udział w spektaklu. Mówią przez siebie kwestie, które raz wypowiada jedna osoba, a raz druga. Na scenie jest gwarno od krótkich stwierdzeń. Nikt z nich nie wypowiada tej samej kwestii oprócz starszej pani, która powtarza "moj syn ma urojenia"**:
+**Pomiędzy meblami chodzą aktorzy biorący udział w spektaklu. Mówią przez siebie kwestie, które raz wypowiada jedna osoba, a raz druga. Na scenie jest gwarno od krótkich stwierdzeń. Nikt z nich nie wypowiada tej samej kwestii dwukrotnie pod rząd oprócz starszej pani, która powtarza "moj syn ma urojenia"**:
 
 * chcę nowy samochód
 
