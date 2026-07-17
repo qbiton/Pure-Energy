@@ -114,4 +114,13 @@ Na scene wchodzi detektyw. Bawi się przez chwilę lupą. Mówi "Akt 3 Scena 7".
 
 **głosy**: widzicie? znowu to robi. Znowu robisz z siebie ofiarę.
 
+**głosy**: skoro i tak umierasz, chcę twój mózg.
+
+**Mąż**: nie masz swojego?
+
+**głosy**: chcę go na swoim biurku w słoju z formaliną.
+
+**głosy**: ja chcę twoją przemianę materii.
+
+**głosy**: ja biorę twoje serce. Podziwiam cię za nie.
 ```kurtyna```
