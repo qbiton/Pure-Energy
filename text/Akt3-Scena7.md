@@ -122,5 +122,11 @@ Na scene wchodzi detektyw. Bawi się przez chwilę lupą. Mówi "Akt 3 Scena 7".
 
 **głosy**: ja chcę twoją przemianę materii.
 
-**głosy**: ja biorę twoje serce. Podziwiam cię za nie.
+**głosy**: ja podziwiam twoje serce.
+
+**głosy**: ja biorę nerki
+
+**głosy**: mi by się przydała nowa wątroba
+
+**głosy**: a ja chcę wszystko co posiadasz. Wyślesz mi to w ładnych, ułożonych, małych pudełeczkach.
 ```kurtyna```
